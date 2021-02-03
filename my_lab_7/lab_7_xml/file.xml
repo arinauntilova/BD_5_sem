@@ -1,0 +1,14 @@
+<ROOT> 
+	<tblPainter>
+		<PainterID>501</PainterID>
+		<PainterFirstName>Петров</PainterFirstName>
+		<PainterSecondName>Игорь</PainterSecondName>
+		<PainterMiddleName>Александрович</PainterMiddleName>
+	</tblPainter>
+	<tblPainter>
+		<PainterID>502</PainterID>
+		<PainterFirstName>Ветрова</PainterFirstName>
+		<PainterSecondName>Полина</PainterSecondName>
+		<PainterMiddleName>Евгеньевна</PainterMiddleName>
+	</tblPainter>
+</ROOT>

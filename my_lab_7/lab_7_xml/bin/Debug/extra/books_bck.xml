@@ -1,0 +1,5002 @@
+﻿<Books>
+<Book>
+  <BookID>1</BookID>
+  <BookName>Живые и мёртвые</BookName>
+  <Pages>248</Pages>
+  <AuthorsID>143</AuthorsID>
+  <GenresID>52</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>4-189-76359  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>2</BookID>
+  <BookName>Маленький принц</BookName>
+  <Pages>203</Pages>
+  <AuthorsID>464</AuthorsID>
+  <GenresID>449</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>3-253-91209  </ISBN>
+  <Year>2001</Year>
+</Book>
+<Book>
+  <BookID>3</BookID>
+  <BookName>Слова</BookName>
+  <Pages>390</Pages>
+  <AuthorsID>355</AuthorsID>
+  <GenresID>446</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>9-746-97180  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>4</BookID>
+  <BookName>Институт сновидений</BookName>
+  <Pages>416</Pages>
+  <AuthorsID>46</AuthorsID>
+  <GenresID>328</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>9-885-10299  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>5</BookID>
+  <BookName>Алексей Куликов, боец</BookName>
+  <Pages>409</Pages>
+  <AuthorsID>349</AuthorsID>
+  <GenresID>425</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>1-164-59629  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>6</BookID>
+  <BookName>Молодая гвардия</BookName>
+  <Pages>472</Pages>
+  <AuthorsID>283</AuthorsID>
+  <GenresID>439</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>2-417-76998  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>7</BookID>
+  <BookName>Девочка-находка</BookName>
+  <Pages>550</Pages>
+  <AuthorsID>50</AuthorsID>
+  <GenresID>411</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>2-892-28737  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>8</BookID>
+  <BookName>Сквозь тайгу</BookName>
+  <Pages>616</Pages>
+  <AuthorsID>306</AuthorsID>
+  <GenresID>314</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>0-281-18849  </ISBN>
+  <Year>1992</Year>
+</Book>
+<Book>
+  <BookID>9</BookID>
+  <BookName>Гонимые</BookName>
+  <Pages>221</Pages>
+  <AuthorsID>138</AuthorsID>
+  <GenresID>149</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>5-758-73825  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>10</BookID>
+  <BookName>По праву памяти</BookName>
+  <Pages>341</Pages>
+  <AuthorsID>60</AuthorsID>
+  <GenresID>438</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>8-980-96652  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>11</BookID>
+  <BookName>Алтайская повесть</BookName>
+  <Pages>593</Pages>
+  <AuthorsID>329</AuthorsID>
+  <GenresID>144</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>2-860-19379  </ISBN>
+  <Year>1978</Year>
+</Book>
+<Book>
+  <BookID>12</BookID>
+  <BookName>Властелин колец</BookName>
+  <Pages>601</Pages>
+  <AuthorsID>183</AuthorsID>
+  <GenresID>470</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>0-371-96196  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>13</BookID>
+  <BookName>Отверженные</BookName>
+  <Pages>553</Pages>
+  <AuthorsID>82</AuthorsID>
+  <GenresID>163</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>0-558-63655  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>14</BookID>
+  <BookName>Ликуя и скорбя</BookName>
+  <Pages>385</Pages>
+  <AuthorsID>5</AuthorsID>
+  <GenresID>386</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>5-441-48965  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>15</BookID>
+  <BookName>Молодая гвардия</BookName>
+  <Pages>561</Pages>
+  <AuthorsID>256</AuthorsID>
+  <GenresID>264</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>6-646-74897  </ISBN>
+  <Year>2016</Year>
+</Book>
+<Book>
+  <BookID>16</BookID>
+  <BookName>Джэксон остаётся в России</BookName>
+  <Pages>287</Pages>
+  <AuthorsID>217</AuthorsID>
+  <GenresID>353</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>9-742-75788  </ISBN>
+  <Year>1993</Year>
+</Book>
+<Book>
+  <BookID>17</BookID>
+  <BookName>Жестокость</BookName>
+  <Pages>646</Pages>
+  <AuthorsID>139</AuthorsID>
+  <GenresID>127</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>1-295-33458  </ISBN>
+  <Year>1994</Year>
+</Book>
+<Book>
+  <BookID>18</BookID>
+  <BookName>Песнь на закате</BookName>
+  <Pages>281</Pages>
+  <AuthorsID>154</AuthorsID>
+  <GenresID>62</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>6-251-17983  </ISBN>
+  <Year>1971</Year>
+</Book>
+<Book>
+  <BookID>19</BookID>
+  <BookName>Повесть о лесах</BookName>
+  <Pages>467</Pages>
+  <AuthorsID>371</AuthorsID>
+  <GenresID>213</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>5-160-55961  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>20</BookID>
+  <BookName>Гарри Поттер и Кубок огня</BookName>
+  <Pages>649</Pages>
+  <AuthorsID>441</AuthorsID>
+  <GenresID>284</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>6-035-61692  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>21</BookID>
+  <BookName>Сказки из сборника «Десять сказочников под одной крышей»</BookName>
+  <Pages>533</Pages>
+  <AuthorsID>115</AuthorsID>
+  <GenresID>159</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>3-413-88900  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>22</BookID>
+  <BookName>Американский психопат</BookName>
+  <Pages>245</Pages>
+  <AuthorsID>317</AuthorsID>
+  <GenresID>228</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>4-274-92904  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>23</BookID>
+  <BookName>Посторонний</BookName>
+  <Pages>401</Pages>
+  <AuthorsID>285</AuthorsID>
+  <GenresID>21</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>6-498-00196  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>24</BookID>
+  <BookName>Далекие шатры</BookName>
+  <Pages>699</Pages>
+  <AuthorsID>70</AuthorsID>
+  <GenresID>76</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>9-250-32554  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>25</BookID>
+  <BookName>Сказки из сборника «Десять сказочников под одной крышей»</BookName>
+  <Pages>606</Pages>
+  <AuthorsID>71</AuthorsID>
+  <GenresID>327</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>6-284-07460  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>26</BookID>
+  <BookName>Дюна</BookName>
+  <Pages>324</Pages>
+  <AuthorsID>319</AuthorsID>
+  <GenresID>197</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>3-391-93617  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>27</BookID>
+  <BookName>Огни на курганах</BookName>
+  <Pages>288</Pages>
+  <AuthorsID>470</AuthorsID>
+  <GenresID>250</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>6-283-16298  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>28</BookID>
+  <BookName>Таинственный сад</BookName>
+  <Pages>654</Pages>
+  <AuthorsID>123</AuthorsID>
+  <GenresID>158</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>1-658-86391  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>29</BookID>
+  <BookName>В грозу</BookName>
+  <Pages>392</Pages>
+  <AuthorsID>323</AuthorsID>
+  <GenresID>293</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>0-017-23053  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>30</BookID>
+  <BookName>Спартак</BookName>
+  <Pages>581</Pages>
+  <AuthorsID>266</AuthorsID>
+  <GenresID>279</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>9-990-99051  </ISBN>
+  <Year>1960</Year>
+</Book>
+<Book>
+  <BookID>31</BookID>
+  <BookName>Мрачный жнец</BookName>
+  <Pages>294</Pages>
+  <AuthorsID>432</AuthorsID>
+  <GenresID>312</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>6-716-49356  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>32</BookID>
+  <BookName>Незабываемое</BookName>
+  <Pages>612</Pages>
+  <AuthorsID>434</AuthorsID>
+  <GenresID>140</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>1-523-58213  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>33</BookID>
+  <BookName>Друзья мои, приятели</BookName>
+  <Pages>375</Pages>
+  <AuthorsID>289</AuthorsID>
+  <GenresID>291</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>2-277-08630  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>34</BookID>
+  <BookName>Пётр Рябинкин</BookName>
+  <Pages>614</Pages>
+  <AuthorsID>338</AuthorsID>
+  <GenresID>484</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>0-376-44515  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>35</BookID>
+  <BookName>Жизнь через сто лет</BookName>
+  <Pages>395</Pages>
+  <AuthorsID>136</AuthorsID>
+  <GenresID>406</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>3-162-45042  </ISBN>
+  <Year>1979</Year>
+</Book>
+<Book>
+  <BookID>36</BookID>
+  <BookName>Крестный отец</BookName>
+  <Pages>417</Pages>
+  <AuthorsID>486</AuthorsID>
+  <GenresID>488</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>8-141-58851  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>37</BookID>
+  <BookName>Василий Тёркин</BookName>
+  <Pages>691</Pages>
+  <AuthorsID>232</AuthorsID>
+  <GenresID>196</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>8-551-32121  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>38</BookID>
+  <BookName>Дом без номера</BookName>
+  <Pages>208</Pages>
+  <AuthorsID>294</AuthorsID>
+  <GenresID>316</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>6-454-67774  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>39</BookID>
+  <BookName>Душа человека – неприличное животное</BookName>
+  <Pages>475</Pages>
+  <AuthorsID>343</AuthorsID>
+  <GenresID>496</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>3-733-13583  </ISBN>
+  <Year>1957</Year>
+</Book>
+<Book>
+  <BookID>40</BookID>
+  <BookName>Подходящий жених</BookName>
+  <Pages>665</Pages>
+  <AuthorsID>87</AuthorsID>
+  <GenresID>376</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>5-732-88899  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>41</BookID>
+  <BookName>На игле</BookName>
+  <Pages>290</Pages>
+  <AuthorsID>252</AuthorsID>
+  <GenresID>487</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>7-870-33835  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>42</BookID>
+  <BookName>Бумбараш</BookName>
+  <Pages>695</Pages>
+  <AuthorsID>324</AuthorsID>
+  <GenresID>321</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>6-658-81301  </ISBN>
+  <Year>1964</Year>
+</Book>
+<Book>
+  <BookID>43</BookID>
+  <BookName>Ледяной дом</BookName>
+  <Pages>550</Pages>
+  <AuthorsID>28</AuthorsID>
+  <GenresID>148</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>5-317-39651  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>44</BookID>
+  <BookName>Демон горы</BookName>
+  <Pages>279</Pages>
+  <AuthorsID>399</AuthorsID>
+  <GenresID>34</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>6-960-65239  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>45</BookID>
+  <BookName>Мандолина капитана Корелли</BookName>
+  <Pages>390</Pages>
+  <AuthorsID>372</AuthorsID>
+  <GenresID>107</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>6-776-56147  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>46</BookID>
+  <BookName>Упрямый лягушонок (рис. Сутеева)</BookName>
+  <Pages>273</Pages>
+  <AuthorsID>96</AuthorsID>
+  <GenresID>89</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>8-417-77814  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>47</BookID>
+  <BookName>Святослав</BookName>
+  <Pages>217</Pages>
+  <AuthorsID>141</AuthorsID>
+  <GenresID>114</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>3-490-09658  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>48</BookID>
+  <BookName>А зори здесь тихие</BookName>
+  <Pages>638</Pages>
+  <AuthorsID>280</AuthorsID>
+  <GenresID>129</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>3-849-44239  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>49</BookID>
+  <BookName>Отверженные</BookName>
+  <Pages>240</Pages>
+  <AuthorsID>152</AuthorsID>
+  <GenresID>467</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>8-999-44547  </ISBN>
+  <Year>2008</Year>
+</Book>
+<Book>
+  <BookID>50</BookID>
+  <BookName>Пение птиц</BookName>
+  <Pages>421</Pages>
+  <AuthorsID>308</AuthorsID>
+  <GenresID>92</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>2-272-97656  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>51</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>204</Pages>
+  <AuthorsID>498</AuthorsID>
+  <GenresID>471</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>7-815-18896  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>52</BookID>
+  <BookName>Доводы рассудка</BookName>
+  <Pages>294</Pages>
+  <AuthorsID>415</AuthorsID>
+  <GenresID>302</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>8-902-42560  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>53</BookID>
+  <BookName>Чингисхан</BookName>
+  <Pages>408</Pages>
+  <AuthorsID>300</AuthorsID>
+  <GenresID>104</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>6-426-55643  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>54</BookID>
+  <BookName>Возвращение в Брайдсхед</BookName>
+  <Pages>615</Pages>
+  <AuthorsID>175</AuthorsID>
+  <GenresID>202</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>3-215-94033  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>55</BookID>
+  <BookName>Северное сияние</BookName>
+  <Pages>425</Pages>
+  <AuthorsID>411</AuthorsID>
+  <GenresID>111</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>0-704-55237  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>56</BookID>
+  <BookName>Шум и ярость</BookName>
+  <Pages>336</Pages>
+  <AuthorsID>104</AuthorsID>
+  <GenresID>452</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>3-213-88993  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>57</BookID>
+  <BookName>Западня</BookName>
+  <Pages>314</Pages>
+  <AuthorsID>247</AuthorsID>
+  <GenresID>434</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>7-719-27138  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>58</BookID>
+  <BookName>Золото</BookName>
+  <Pages>388</Pages>
+  <AuthorsID>302</AuthorsID>
+  <GenresID>352</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>3-135-73872  </ISBN>
+  <Year>2008</Year>
+</Book>
+<Book>
+  <BookID>59</BookID>
+  <BookName>Басурман</BookName>
+  <Pages>334</Pages>
+  <AuthorsID>449</AuthorsID>
+  <GenresID>66</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>6-384-20778  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>60</BookID>
+  <BookName>Партийный билет</BookName>
+  <Pages>346</Pages>
+  <AuthorsID>363</AuthorsID>
+  <GenresID>355</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>0-869-73468  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>61</BookID>
+  <BookName>Вимба</BookName>
+  <Pages>492</Pages>
+  <AuthorsID>90</AuthorsID>
+  <GenresID>38</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>1-923-89571  </ISBN>
+  <Year>1996</Year>
+</Book>
+<Book>
+  <BookID>62</BookID>
+  <BookName>Лысая певица</BookName>
+  <Pages>475</Pages>
+  <AuthorsID>393</AuthorsID>
+  <GenresID>130</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>5-035-11336  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>63</BookID>
+  <BookName>Ярость и тайна</BookName>
+  <Pages>533</Pages>
+  <AuthorsID>467</AuthorsID>
+  <GenresID>58</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>8-709-52900  </ISBN>
+  <Year>1993</Year>
+</Book>
+<Book>
+  <BookID>64</BookID>
+  <BookName>Пьедестал</BookName>
+  <Pages>219</Pages>
+  <AuthorsID>278</AuthorsID>
+  <GenresID>357</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>2-783-28992  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>65</BookID>
+  <BookName>Лорна Дун</BookName>
+  <Pages>558</Pages>
+  <AuthorsID>200</AuthorsID>
+  <GenresID>371</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>8-919-00690  </ISBN>
+  <Year>2001</Year>
+</Book>
+<Book>
+  <BookID>66</BookID>
+  <BookName>Скобелев, или Есть только миг…</BookName>
+  <Pages>613</Pages>
+  <AuthorsID>398</AuthorsID>
+  <GenresID>270</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>4-596-99711  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>67</BookID>
+  <BookName>Русь Великая</BookName>
+  <Pages>389</Pages>
+  <AuthorsID>276</AuthorsID>
+  <GenresID>372</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>8-922-58474  </ISBN>
+  <Year>1994</Year>
+</Book>
+<Book>
+  <BookID>68</BookID>
+  <BookName>Час быка (книга с рис. Г. Бойко, И. Шалито)</BookName>
+  <Pages>582</Pages>
+  <AuthorsID>410</AuthorsID>
+  <GenresID>462</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>2-561-52530  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>69</BookID>
+  <BookName>Отставка штабс-капитана</BookName>
+  <Pages>238</Pages>
+  <AuthorsID>382</AuthorsID>
+  <GenresID>164</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>0-862-76390  </ISBN>
+  <Year>1993</Year>
+</Book>
+<Book>
+  <BookID>70</BookID>
+  <BookName>Невыносимая лёгкость бытия</BookName>
+  <Pages>235</Pages>
+  <AuthorsID>242</AuthorsID>
+  <GenresID>160</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>5-678-71891  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>71</BookID>
+  <BookName>Тайна доктора Хента</BookName>
+  <Pages>674</Pages>
+  <AuthorsID>453</AuthorsID>
+  <GenresID>341</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>9-325-24704  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>72</BookID>
+  <BookName>Севастопольская страда т.1</BookName>
+  <Pages>467</Pages>
+  <AuthorsID>61</AuthorsID>
+  <GenresID>82</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>8-762-10652  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>73</BookID>
+  <BookName>Усики виноградной лозы</BookName>
+  <Pages>309</Pages>
+  <AuthorsID>188</AuthorsID>
+  <GenresID>31</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>7-074-44788  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>74</BookID>
+  <BookName>Ямы</BookName>
+  <Pages>238</Pages>
+  <AuthorsID>38</AuthorsID>
+  <GenresID>303</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>9-476-35137  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>75</BookID>
+  <BookName>Роковая музыка</BookName>
+  <Pages>399</Pages>
+  <AuthorsID>454</AuthorsID>
+  <GenresID>401</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>9-769-14655  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>76</BookID>
+  <BookName>Неодушевлённый враг</BookName>
+  <Pages>308</Pages>
+  <AuthorsID>153</AuthorsID>
+  <GenresID>274</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>0-714-40563  </ISBN>
+  <Year>1942</Year>
+</Book>
+<Book>
+  <BookID>77</BookID>
+  <BookName>Пугачёв т.3</BookName>
+  <Pages>245</Pages>
+  <AuthorsID>344</AuthorsID>
+  <GenresID>281</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>1-099-35004  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>78</BookID>
+  <BookName>На могилах русских солдат</BookName>
+  <Pages>410</Pages>
+  <AuthorsID>413</AuthorsID>
+  <GenresID>472</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>6-208-52146  </ISBN>
+  <Year>1957</Year>
+</Book>
+<Book>
+  <BookID>79</BookID>
+  <BookName>Пурпурный цвет</BookName>
+  <Pages>250</Pages>
+  <AuthorsID>4</AuthorsID>
+  <GenresID>3</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>0-841-24418  </ISBN>
+  <Year>1940</Year>
+</Book>
+<Book>
+  <BookID>80</BookID>
+  <BookName>Война и мир</BookName>
+  <Pages>492</Pages>
+  <AuthorsID>390</AuthorsID>
+  <GenresID>253</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>6-070-03886  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>81</BookID>
+  <BookName>Сожжённая Москва</BookName>
+  <Pages>217</Pages>
+  <AuthorsID>234</AuthorsID>
+  <GenresID>204</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>4-358-61686  </ISBN>
+  <Year>1987</Year>
+</Book>
+<Book>
+  <BookID>82</BookID>
+  <BookName>Калина красная</BookName>
+  <Pages>494</Pages>
+  <AuthorsID>94</AuthorsID>
+  <GenresID>309</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>5-303-03495  </ISBN>
+  <Year>2017</Year>
+</Book>
+<Book>
+  <BookID>83</BookID>
+  <BookName>Базалетское озеро</BookName>
+  <Pages>291</Pages>
+  <AuthorsID>209</AuthorsID>
+  <GenresID>345</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>2-313-43036  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>84</BookID>
+  <BookName>Батый</BookName>
+  <Pages>216</Pages>
+  <AuthorsID>151</AuthorsID>
+  <GenresID>429</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>9-301-94257  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>85</BookID>
+  <BookName>Поющие в терновнике</BookName>
+  <Pages>319</Pages>
+  <AuthorsID>384</AuthorsID>
+  <GenresID>289</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>0-854-92323  </ISBN>
+  <Year>2000</Year>
+</Book>
+<Book>
+  <BookID>86</BookID>
+  <BookName>Хитрые звери</BookName>
+  <Pages>458</Pages>
+  <AuthorsID>460</AuthorsID>
+  <GenresID>305</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>9-416-37103  </ISBN>
+  <Year>1964</Year>
+</Book>
+<Book>
+  <BookID>87</BookID>
+  <BookName>Горячий снег</BookName>
+  <Pages>276</Pages>
+  <AuthorsID>42</AuthorsID>
+  <GenresID>162</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>3-475-59271  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>88</BookID>
+  <BookName>Алиса в Стране чудес</BookName>
+  <Pages>362</Pages>
+  <AuthorsID>172</AuthorsID>
+  <GenresID>43</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>4-252-97216  </ISBN>
+  <Year>1956</Year>
+</Book>
+<Book>
+  <BookID>89</BookID>
+  <BookName>Похвальное слово бане</BookName>
+  <Pages>465</Pages>
+  <AuthorsID>173</AuthorsID>
+  <GenresID>63</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>4-449-30738  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>90</BookID>
+  <BookName>Роковая музыка</BookName>
+  <Pages>674</Pages>
+  <AuthorsID>117</AuthorsID>
+  <GenresID>315</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>6-674-88092  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>91</BookID>
+  <BookName>Изменение</BookName>
+  <Pages>481</Pages>
+  <AuthorsID>191</AuthorsID>
+  <GenresID>297</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>3-531-35860  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>92</BookID>
+  <BookName>Подходящий жених</BookName>
+  <Pages>527</Pages>
+  <AuthorsID>380</AuthorsID>
+  <GenresID>47</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>9-074-42350  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>93</BookID>
+  <BookName>Мир Софии</BookName>
+  <Pages>676</Pages>
+  <AuthorsID>3</AuthorsID>
+  <GenresID>211</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>1-508-53471  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>94</BookID>
+  <BookName>Большая вода</BookName>
+  <Pages>540</Pages>
+  <AuthorsID>484</AuthorsID>
+  <GenresID>299</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>0-973-79583  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>95</BookID>
+  <BookName>Девять десятых судьбы</BookName>
+  <Pages>331</Pages>
+  <AuthorsID>137</AuthorsID>
+  <GenresID>464</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>3-689-53382  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>96</BookID>
+  <BookName>Смерть меня подождёт</BookName>
+  <Pages>597</Pages>
+  <AuthorsID>228</AuthorsID>
+  <GenresID>59</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>3-754-00322  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>97</BookID>
+  <BookName>Как медведь трубку нашёл</BookName>
+  <Pages>653</Pages>
+  <AuthorsID>253</AuthorsID>
+  <GenresID>229</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>0-660-79517  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>98</BookID>
+  <BookName>Преступление и наказание</BookName>
+  <Pages>473</Pages>
+  <AuthorsID>292</AuthorsID>
+  <GenresID>35</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>6-187-86444  </ISBN>
+  <Year>1999</Year>
+</Book>
+<Book>
+  <BookID>99</BookID>
+  <BookName>В глуби веков</BookName>
+  <Pages>552</Pages>
+  <AuthorsID>477</AuthorsID>
+  <GenresID>479</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>5-702-73095  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>100</BookID>
+  <BookName>Мир Софии</BookName>
+  <Pages>298</Pages>
+  <AuthorsID>30</AuthorsID>
+  <GenresID>30</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>5-118-35472  </ISBN>
+  <Year>1987</Year>
+</Book>
+<Book>
+  <BookID>101</BookID>
+  <BookName>Дэвид Копперфильд</BookName>
+  <Pages>545</Pages>
+  <AuthorsID>11</AuthorsID>
+  <GenresID>131</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>5-291-30348  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>102</BookID>
+  <BookName>Старый врач</BookName>
+  <Pages>309</Pages>
+  <AuthorsID>85</AuthorsID>
+  <GenresID>358</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>7-289-65245  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>103</BookID>
+  <BookName>Колокола Хатыни</BookName>
+  <Pages>274</Pages>
+  <AuthorsID>392</AuthorsID>
+  <GenresID>248</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>5-052-06574  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>104</BookID>
+  <BookName>Зелёный шум (сборник)</BookName>
+  <Pages>274</Pages>
+  <AuthorsID>391</AuthorsID>
+  <GenresID>298</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>5-387-49042  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>105</BookID>
+  <BookName>Всадник на крыше</BookName>
+  <Pages>292</Pages>
+  <AuthorsID>375</AuthorsID>
+  <GenresID>49</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>2-791-28082  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>106</BookID>
+  <BookName>Броня</BookName>
+  <Pages>238</Pages>
+  <AuthorsID>405</AuthorsID>
+  <GenresID>383</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>5-143-53984  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>107</BookID>
+  <BookName>Автостопом по галактике</BookName>
+  <Pages>340</Pages>
+  <AuthorsID>221</AuthorsID>
+  <GenresID>237</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>8-174-81526  </ISBN>
+  <Year>1964</Year>
+</Book>
+<Book>
+  <BookID>108</BookID>
+  <BookName>Восхищение Лол Стайн</BookName>
+  <Pages>261</Pages>
+  <AuthorsID>261</AuthorsID>
+  <GenresID>343</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>0-280-35858  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>109</BookID>
+  <BookName>Матильда</BookName>
+  <Pages>640</Pages>
+  <AuthorsID>13</AuthorsID>
+  <GenresID>361</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>7-401-54260  </ISBN>
+  <Year>1956</Year>
+</Book>
+<Book>
+  <BookID>110</BookID>
+  <BookName>Бабаев</BookName>
+  <Pages>460</Pages>
+  <AuthorsID>430</AuthorsID>
+  <GenresID>458</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>1-817-05843  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>111</BookID>
+  <BookName>Красные жемчуга</BookName>
+  <Pages>368</Pages>
+  <AuthorsID>37</AuthorsID>
+  <GenresID>412</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>8-187-88176  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>112</BookID>
+  <BookName>Весёлый турист</BookName>
+  <Pages>388</Pages>
+  <AuthorsID>198</AuthorsID>
+  <GenresID>241</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>3-524-86533  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>113</BookID>
+  <BookName>Завтра была война</BookName>
+  <Pages>586</Pages>
+  <AuthorsID>144</AuthorsID>
+  <GenresID>16</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>1-833-66057  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>114</BookID>
+  <BookName>Партийный билет</BookName>
+  <Pages>681</Pages>
+  <AuthorsID>240</AuthorsID>
+  <GenresID>68</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>4-725-61719  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>115</BookID>
+  <BookName>Мир глазами Гарпа</BookName>
+  <Pages>377</Pages>
+  <AuthorsID>262</AuthorsID>
+  <GenresID>72</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>5-720-76562  </ISBN>
+  <Year>1940</Year>
+</Book>
+<Book>
+  <BookID>116</BookID>
+  <BookName>Ребекка</BookName>
+  <Pages>590</Pages>
+  <AuthorsID>404</AuthorsID>
+  <GenresID>261</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>7-407-92643  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>117</BookID>
+  <BookName>Стража! Стража!</BookName>
+  <Pages>329</Pages>
+  <AuthorsID>73</AuthorsID>
+  <GenresID>223</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>1-496-89902  </ISBN>
+  <Year>2001</Year>
+</Book>
+<Book>
+  <BookID>118</BookID>
+  <BookName>Разведчик Татьян</BookName>
+  <Pages>473</Pages>
+  <AuthorsID>108</AuthorsID>
+  <GenresID>474</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>6-625-78511  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>119</BookID>
+  <BookName>Дневник незначительного лица</BookName>
+  <Pages>569</Pages>
+  <AuthorsID>69</AuthorsID>
+  <GenresID>7</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>6-838-78927  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>120</BookID>
+  <BookName>В глуби веков</BookName>
+  <Pages>234</Pages>
+  <AuthorsID>251</AuthorsID>
+  <GenresID>441</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>0-263-90112  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>121</BookID>
+  <BookName>Танцующий Шива</BookName>
+  <Pages>577</Pages>
+  <AuthorsID>303</AuthorsID>
+  <GenresID>418</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>5-831-10483  </ISBN>
+  <Year>1979</Year>
+</Book>
+<Book>
+  <BookID>122</BookID>
+  <BookName>Осиная фабрика</BookName>
+  <Pages>303</Pages>
+  <AuthorsID>385</AuthorsID>
+  <GenresID>102</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>1-579-32440  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>123</BookID>
+  <BookName>В ожидании Годо</BookName>
+  <Pages>341</Pages>
+  <AuthorsID>421</AuthorsID>
+  <GenresID>236</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>9-841-66345  </ISBN>
+  <Year>2017</Year>
+</Book>
+<Book>
+  <BookID>124</BookID>
+  <BookName>А зори здесь тихие</BookName>
+  <Pages>501</Pages>
+  <AuthorsID>396</AuthorsID>
+  <GenresID>13</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>7-854-59167  </ISBN>
+  <Year>1949</Year>
+</Book>
+<Book>
+  <BookID>125</BookID>
+  <BookName>Они играли на траве</BookName>
+  <Pages>592</Pages>
+  <AuthorsID>290</AuthorsID>
+  <GenresID>112</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>0-861-40408  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>126</BookID>
+  <BookName>Морская душа</BookName>
+  <Pages>434</Pages>
+  <AuthorsID>373</AuthorsID>
+  <GenresID>410</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>9-235-23325  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>127</BookID>
+  <BookName>Ангус, ремни и конкретные обжимашки</BookName>
+  <Pages>433</Pages>
+  <AuthorsID>438</AuthorsID>
+  <GenresID>422</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>4-069-03524  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>128</BookID>
+  <BookName>Хмурое утро (Хождение по мукам)</BookName>
+  <Pages>444</Pages>
+  <AuthorsID>187</AuthorsID>
+  <GenresID>90</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>5-120-63795  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>129</BookID>
+  <BookName>Руки вверх! Или Враг № 1</BookName>
+  <Pages>308</Pages>
+  <AuthorsID>27</AuthorsID>
+  <GenresID>290</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>4-528-97491  </ISBN>
+  <Year>2016</Year>
+</Book>
+<Book>
+  <BookID>130</BookID>
+  <BookName>Штурм лабиринта</BookName>
+  <Pages>585</Pages>
+  <AuthorsID>218</AuthorsID>
+  <GenresID>232</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>2-156-67412  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>131</BookID>
+  <BookName>Имя розы</BookName>
+  <Pages>597</Pages>
+  <AuthorsID>105</AuthorsID>
+  <GenresID>137</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>8-250-39140  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>132</BookID>
+  <BookName>Пурпурный цвет</BookName>
+  <Pages>324</Pages>
+  <AuthorsID>174</AuthorsID>
+  <GenresID>255</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>1-083-73835  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>133</BookID>
+  <BookName>Возвращение</BookName>
+  <Pages>258</Pages>
+  <AuthorsID>340</AuthorsID>
+  <GenresID>398</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>7-192-00233  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>134</BookID>
+  <BookName>На кладбище</BookName>
+  <Pages>378</Pages>
+  <AuthorsID>471</AuthorsID>
+  <GenresID>272</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>7-028-41007  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>135</BookID>
+  <BookName>Обсерватория Нур-и-Дешт</BookName>
+  <Pages>576</Pages>
+  <AuthorsID>118</AuthorsID>
+  <GenresID>329</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>9-735-16842  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>136</BookID>
+  <BookName>Котлован</BookName>
+  <Pages>248</Pages>
+  <AuthorsID>67</AuthorsID>
+  <GenresID>440</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>2-468-23629  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>137</BookID>
+  <BookName>Собака Баскервилей</BookName>
+  <Pages>655</Pages>
+  <AuthorsID>237</AuthorsID>
+  <GenresID>338</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>6-427-99531  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>138</BookID>
+  <BookName>Ветер в ивах</BookName>
+  <Pages>585</Pages>
+  <AuthorsID>75</AuthorsID>
+  <GenresID>212</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>1-334-43987  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>139</BookID>
+  <BookName>Прокляты и убиты. Чертова яма</BookName>
+  <Pages>401</Pages>
+  <AuthorsID>475</AuthorsID>
+  <GenresID>51</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>7-011-45489  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>140</BookID>
+  <BookName>Серёжка Чубатов</BookName>
+  <Pages>565</Pages>
+  <AuthorsID>156</AuthorsID>
+  <GenresID>393</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>7-502-33969  </ISBN>
+  <Year>1940</Year>
+</Book>
+<Book>
+  <BookID>141</BookID>
+  <BookName>Командир роты</BookName>
+  <Pages>644</Pages>
+  <AuthorsID>192</AuthorsID>
+  <GenresID>15</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>1-447-58824  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>142</BookID>
+  <BookName>Винни Пух</BookName>
+  <Pages>478</Pages>
+  <AuthorsID>158</AuthorsID>
+  <GenresID>153</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>5-164-25808  </ISBN>
+  <Year>1957</Year>
+</Book>
+<Book>
+  <BookID>143</BookID>
+  <BookName>Голубая глубина (Книга стихов)</BookName>
+  <Pages>449</Pages>
+  <AuthorsID>199</AuthorsID>
+  <GenresID>420</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>8-716-48613  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>144</BookID>
+  <BookName>Горячий снег</BookName>
+  <Pages>582</Pages>
+  <AuthorsID>103</AuthorsID>
+  <GenresID>435</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>3-925-26233  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>145</BookID>
+  <BookName>Голубая чашка</BookName>
+  <Pages>539</Pages>
+  <AuthorsID>224</AuthorsID>
+  <GenresID>1</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>1-769-52415  </ISBN>
+  <Year>2008</Year>
+</Book>
+<Book>
+  <BookID>146</BookID>
+  <BookName>Земля, до востребования</BookName>
+  <Pages>397</Pages>
+  <AuthorsID>203</AuthorsID>
+  <GenresID>78</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>4-249-03277  </ISBN>
+  <Year>1971</Year>
+</Book>
+<Book>
+  <BookID>147</BookID>
+  <BookName>Двенадцать месяцев</BookName>
+  <Pages>227</Pages>
+  <AuthorsID>331</AuthorsID>
+  <GenresID>88</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>3-543-43129  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>148</BookID>
+  <BookName>Повесть о двух городах</BookName>
+  <Pages>238</Pages>
+  <AuthorsID>458</AuthorsID>
+  <GenresID>455</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>7-106-67812  </ISBN>
+  <Year>1978</Year>
+</Book>
+<Book>
+  <BookID>149</BookID>
+  <BookName>Ленин и печник</BookName>
+  <Pages>658</Pages>
+  <AuthorsID>24</AuthorsID>
+  <GenresID>416</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>9-211-06994  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>150</BookID>
+  <BookName>Обелиск</BookName>
+  <Pages>546</Pages>
+  <AuthorsID>304</AuthorsID>
+  <GenresID>495</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>2-082-83860  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>151</BookID>
+  <BookName>Три поросёнка</BookName>
+  <Pages>490</Pages>
+  <AuthorsID>213</AuthorsID>
+  <GenresID>356</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>6-301-09864  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>152</BookID>
+  <BookName>Обитатели холмов</BookName>
+  <Pages>222</Pages>
+  <AuthorsID>166</AuthorsID>
+  <GenresID>240</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>9-984-80523  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>153</BookID>
+  <BookName>Три солдата</BookName>
+  <Pages>461</Pages>
+  <AuthorsID>249</AuthorsID>
+  <GenresID>245</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>4-102-06708  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>154</BookID>
+  <BookName>Поющие в терновнике</BookName>
+  <Pages>244</Pages>
+  <AuthorsID>245</AuthorsID>
+  <GenresID>141</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>4-626-14698  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>155</BookID>
+  <BookName>За тех, кто в дрейфе</BookName>
+  <Pages>253</Pages>
+  <AuthorsID>456</AuthorsID>
+  <GenresID>415</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>7-293-83579  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>156</BookID>
+  <BookName>Политрук Коломиец</BookName>
+  <Pages>626</Pages>
+  <AuthorsID>361</AuthorsID>
+  <GenresID>103</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>9-032-07188  </ISBN>
+  <Year>1986</Year>
+</Book>
+<Book>
+  <BookID>157</BookID>
+  <BookName>Дорога ветров</BookName>
+  <Pages>327</Pages>
+  <AuthorsID>284</AuthorsID>
+  <GenresID>122</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>5-955-99640  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>158</BookID>
+  <BookName>Разгром</BookName>
+  <Pages>400</Pages>
+  <AuthorsID>318</AuthorsID>
+  <GenresID>186</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>7-362-82950  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>159</BookID>
+  <BookName>Убить пересмешника</BookName>
+  <Pages>353</Pages>
+  <AuthorsID>368</AuthorsID>
+  <GenresID>14</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>5-658-17643  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>160</BookID>
+  <BookName>Катакомбы</BookName>
+  <Pages>368</Pages>
+  <AuthorsID>12</AuthorsID>
+  <GenresID>142</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>4-608-76680  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>161</BookID>
+  <BookName>Джеймс и гигантский персик</BookName>
+  <Pages>279</Pages>
+  <AuthorsID>310</AuthorsID>
+  <GenresID>179</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>6-860-62360  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>162</BookID>
+  <BookName>Бумбараш</BookName>
+  <Pages>588</Pages>
+  <AuthorsID>279</AuthorsID>
+  <GenresID>364</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>1-735-77014  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>163</BookID>
+  <BookName>Прощание с летом</BookName>
+  <Pages>543</Pages>
+  <AuthorsID>335</AuthorsID>
+  <GenresID>4</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>8-366-96178  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>164</BookID>
+  <BookName>Голубой лотос</BookName>
+  <Pages>567</Pages>
+  <AuthorsID>132</AuthorsID>
+  <GenresID>331</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>1-038-61994  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>165</BookID>
+  <BookName>Гибель богинь</BookName>
+  <Pages>564</Pages>
+  <AuthorsID>494</AuthorsID>
+  <GenresID>332</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>0-162-16944  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>166</BookID>
+  <BookName>В списках не значился</BookName>
+  <Pages>268</Pages>
+  <AuthorsID>215</AuthorsID>
+  <GenresID>263</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>0-852-46057  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>167</BookID>
+  <BookName>Усики виноградной лозы</BookName>
+  <Pages>548</Pages>
+  <AuthorsID>34</AuthorsID>
+  <GenresID>400</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>0-152-45639  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>168</BookID>
+  <BookName>Сто лет одиночества</BookName>
+  <Pages>362</Pages>
+  <AuthorsID>330</AuthorsID>
+  <GenresID>184</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>3-115-15128  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>169</BookID>
+  <BookName>Пашка из Медвежьего лога</BookName>
+  <Pages>306</Pages>
+  <AuthorsID>131</AuthorsID>
+  <GenresID>215</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>1-807-37283  </ISBN>
+  <Year>1996</Year>
+</Book>
+<Book>
+  <BookID>170</BookID>
+  <BookName>При свете дня</BookName>
+  <Pages>209</Pages>
+  <AuthorsID>162</AuthorsID>
+  <GenresID>208</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>8-468-87892  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>171</BookID>
+  <BookName>Любовь во время холеры</BookName>
+  <Pages>323</Pages>
+  <AuthorsID>182</AuthorsID>
+  <GenresID>378</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>0-102-48051  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>172</BookID>
+  <BookName>Огни на курганах</BookName>
+  <Pages>308</Pages>
+  <AuthorsID>134</AuthorsID>
+  <GenresID>322</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>9-341-67772  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>173</BookID>
+  <BookName>Апологетина интеграции</BookName>
+  <Pages>564</Pages>
+  <AuthorsID>356</AuthorsID>
+  <GenresID>85</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>1-604-84719  </ISBN>
+  <Year>2017</Year>
+</Book>
+<Book>
+  <BookID>174</BookID>
+  <BookName>Воронежское лето</BookName>
+  <Pages>497</Pages>
+  <AuthorsID>236</AuthorsID>
+  <GenresID>451</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>9-365-16354  </ISBN>
+  <Year>1992</Year>
+</Book>
+<Book>
+  <BookID>175</BookID>
+  <BookName>Крестный отец</BookName>
+  <Pages>448</Pages>
+  <AuthorsID>388</AuthorsID>
+  <GenresID>95</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>7-949-86514  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>176</BookID>
+  <BookName>Слова и вещи. Археология гуманитарных наук</BookName>
+  <Pages>532</Pages>
+  <AuthorsID>500</AuthorsID>
+  <GenresID>306</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>1-716-17204  </ISBN>
+  <Year>1942</Year>
+</Book>
+<Book>
+  <BookID>177</BookID>
+  <BookName>Дядя Стёпа</BookName>
+  <Pages>281</Pages>
+  <AuthorsID>448</AuthorsID>
+  <GenresID>44</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>0-714-14528  </ISBN>
+  <Year>1960</Year>
+</Book>
+<Book>
+  <BookID>178</BookID>
+  <BookName>Повесть о лесах</BookName>
+  <Pages>397</Pages>
+  <AuthorsID>36</AuthorsID>
+  <GenresID>108</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>8-249-93787  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>179</BookID>
+  <BookName>Записки Мальте Лауридса Бригге</BookName>
+  <Pages>331</Pages>
+  <AuthorsID>62</AuthorsID>
+  <GenresID>294</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>0-114-04252  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>180</BookID>
+  <BookName>Дневник Анны Франк</BookName>
+  <Pages>260</Pages>
+  <AuthorsID>140</AuthorsID>
+  <GenresID>207</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>5-102-70000  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>181</BookID>
+  <BookName>Связистка</BookName>
+  <Pages>468</Pages>
+  <AuthorsID>364</AuthorsID>
+  <GenresID>276</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>6-706-85503  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>182</BookID>
+  <BookName>Мартин Иден</BookName>
+  <Pages>647</Pages>
+  <AuthorsID>54</AuthorsID>
+  <GenresID>135</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>6-497-81839  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>183</BookID>
+  <BookName>Тёмные начала</BookName>
+  <Pages>495</Pages>
+  <AuthorsID>93</AuthorsID>
+  <GenresID>170</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>9-464-35592  </ISBN>
+  <Year>2017</Year>
+</Book>
+<Book>
+  <BookID>184</BookID>
+  <BookName>Волчья яма</BookName>
+  <Pages>598</Pages>
+  <AuthorsID>92</AuthorsID>
+  <GenresID>375</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>8-715-85707  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>185</BookID>
+  <BookName>Посмертные записки Пиквикского клуба</BookName>
+  <Pages>329</Pages>
+  <AuthorsID>427</AuthorsID>
+  <GenresID>483</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>7-772-24723  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>186</BookID>
+  <BookName>Святослав</BookName>
+  <Pages>287</Pages>
+  <AuthorsID>326</AuthorsID>
+  <GenresID>36</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>0-906-20701  </ISBN>
+  <Year>1979</Year>
+</Book>
+<Book>
+  <BookID>187</BookID>
+  <BookName>Рукопись, найденная под кроватью</BookName>
+  <Pages>472</Pages>
+  <AuthorsID>59</AuthorsID>
+  <GenresID>385</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>6-702-03241  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>188</BookID>
+  <BookName>Событие</BookName>
+  <Pages>317</Pages>
+  <AuthorsID>23</AuthorsID>
+  <GenresID>169</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>8-730-20076  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>189</BookID>
+  <BookName>Не говори ты Арктике – прощай</BookName>
+  <Pages>519</Pages>
+  <AuthorsID>263</AuthorsID>
+  <GenresID>277</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>8-384-45108  </ISBN>
+  <Year>1992</Year>
+</Book>
+<Book>
+  <BookID>190</BookID>
+  <BookName>Западня</BookName>
+  <Pages>371</Pages>
+  <AuthorsID>193</AuthorsID>
+  <GenresID>192</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>6-765-93389  </ISBN>
+  <Year>2017</Year>
+</Book>
+<Book>
+  <BookID>191</BookID>
+  <BookName>Русь изначальная т.2</BookName>
+  <Pages>379</Pages>
+  <AuthorsID>229</AuthorsID>
+  <GenresID>12</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>1-297-43504  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>192</BookID>
+  <BookName>Повесть о лесах</BookName>
+  <Pages>684</Pages>
+  <AuthorsID>466</AuthorsID>
+  <GenresID>55</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>1-734-22004  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>193</BookID>
+  <BookName>Дневники принцессы</BookName>
+  <Pages>610</Pages>
+  <AuthorsID>58</AuthorsID>
+  <GenresID>218</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>2-377-11133  </ISBN>
+  <Year>1976</Year>
+</Book>
+<Book>
+  <BookID>194</BookID>
+  <BookName>1984</BookName>
+  <Pages>648</Pages>
+  <AuthorsID>468</AuthorsID>
+  <GenresID>275</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>4-975-62110  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>195</BookID>
+  <BookName>Заклинатель лошадей</BookName>
+  <Pages>649</Pages>
+  <AuthorsID>145</AuthorsID>
+  <GenresID>46</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>5-795-67593  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>196</BookID>
+  <BookName>Хайди</BookName>
+  <Pages>298</Pages>
+  <AuthorsID>99</AuthorsID>
+  <GenresID>40</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>7-873-03765  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>197</BookID>
+  <BookName>Последний Новик</BookName>
+  <Pages>601</Pages>
+  <AuthorsID>293</AuthorsID>
+  <GenresID>195</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>9-052-65504  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>198</BookID>
+  <BookName>Прекрасная дама</BookName>
+  <Pages>689</Pages>
+  <AuthorsID>360</AuthorsID>
+  <GenresID>61</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>9-807-43013  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>199</BookID>
+  <BookName>Тропизмы</BookName>
+  <Pages>536</Pages>
+  <AuthorsID>170</AuthorsID>
+  <GenresID>330</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>7-480-39046  </ISBN>
+  <Year>1971</Year>
+</Book>
+<Book>
+  <BookID>200</BookID>
+  <BookName>Прощание с летом</BookName>
+  <Pages>293</Pages>
+  <AuthorsID>337</AuthorsID>
+  <GenresID>8</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>8-494-56066  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>201</BookID>
+  <BookName>Дети Арбата</BookName>
+  <Pages>558</Pages>
+  <AuthorsID>350</AuthorsID>
+  <GenresID>308</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>1-382-06819  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>202</BookID>
+  <BookName>Девчонки гуляют допоздна</BookName>
+  <Pages>575</Pages>
+  <AuthorsID>336</AuthorsID>
+  <GenresID>254</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>6-054-63024  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>203</BookID>
+  <BookName>Снегурочка</BookName>
+  <Pages>276</Pages>
+  <AuthorsID>345</AuthorsID>
+  <GenresID>53</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>8-449-65564  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>204</BookID>
+  <BookName>Гадюка</BookName>
+  <Pages>638</Pages>
+  <AuthorsID>367</AuthorsID>
+  <GenresID>120</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>4-735-94360  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>205</BookID>
+  <BookName>Вокруг света за погодой</BookName>
+  <Pages>366</Pages>
+  <AuthorsID>112</AuthorsID>
+  <GenresID>390</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>3-308-84439  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>206</BookID>
+  <BookName>Журавли</BookName>
+  <Pages>243</Pages>
+  <AuthorsID>77</AuthorsID>
+  <GenresID>10</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>0-663-88221  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>207</BookID>
+  <BookName>Котлован</BookName>
+  <Pages>587</Pages>
+  <AuthorsID>142</AuthorsID>
+  <GenresID>258</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>6-876-16519  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>208</BookID>
+  <BookName>Секвойя</BookName>
+  <Pages>513</Pages>
+  <AuthorsID>332</AuthorsID>
+  <GenresID>463</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>1-364-96838  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>209</BookID>
+  <BookName>В сторону заката солнца</BookName>
+  <Pages>605</Pages>
+  <AuthorsID>160</AuthorsID>
+  <GenresID>171</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>2-612-56233  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>210</BookID>
+  <BookName>Второй пол</BookName>
+  <Pages>259</Pages>
+  <AuthorsID>111</AuthorsID>
+  <GenresID>205</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>4-588-26508  </ISBN>
+  <Year>1948</Year>
+</Book>
+<Book>
+  <BookID>211</BookID>
+  <BookName>Синопский бой</BookName>
+  <Pages>498</Pages>
+  <AuthorsID>155</AuthorsID>
+  <GenresID>388</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>3-531-23176  </ISBN>
+  <Year>1988</Year>
+</Book>
+<Book>
+  <BookID>212</BookID>
+  <BookName>Поэмы (1922 – февраль 1923)</BookName>
+  <Pages>200</Pages>
+  <AuthorsID>98</AuthorsID>
+  <GenresID>252</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>7-393-60021  </ISBN>
+  <Year>1976</Year>
+</Book>
+<Book>
+  <BookID>213</BookID>
+  <BookName>Дети полуночи</BookName>
+  <Pages>470</Pages>
+  <AuthorsID>68</AuthorsID>
+  <GenresID>194</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>1-381-62607  </ISBN>
+  <Year>1993</Year>
+</Book>
+<Book>
+  <BookID>214</BookID>
+  <BookName>Противостояние</BookName>
+  <Pages>532</Pages>
+  <AuthorsID>452</AuthorsID>
+  <GenresID>200</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>3-289-32445  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>215</BookID>
+  <BookName>По праву памяти</BookName>
+  <Pages>411</Pages>
+  <AuthorsID>226</AuthorsID>
+  <GenresID>91</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>7-862-99514  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>216</BookID>
+  <BookName>Летающий мальчик</BookName>
+  <Pages>551</Pages>
+  <AuthorsID>429</AuthorsID>
+  <GenresID>118</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>9-668-86754  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>217</BookID>
+  <BookName>Побережье Сирта</BookName>
+  <Pages>686</Pages>
+  <AuthorsID>397</AuthorsID>
+  <GenresID>442</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>4-978-58939  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>218</BookID>
+  <BookName>Мы идём по Восточному Саяну</BookName>
+  <Pages>468</Pages>
+  <AuthorsID>403</AuthorsID>
+  <GenresID>482</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>4-882-60135  </ISBN>
+  <Year>1996</Year>
+</Book>
+<Book>
+  <BookID>219</BookID>
+  <BookName>Рукопись, найденная под кроватью</BookName>
+  <Pages>376</Pages>
+  <AuthorsID>186</AuthorsID>
+  <GenresID>359</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>0-533-40258  </ISBN>
+  <Year>1940</Year>
+</Book>
+<Book>
+  <BookID>220</BookID>
+  <BookName>Хмурое утро (Хождение по мукам)</BookName>
+  <Pages>452</Pages>
+  <AuthorsID>440</AuthorsID>
+  <GenresID>178</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>4-366-33829  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>221</BookID>
+  <BookName>Осиная фабрика</BookName>
+  <Pages>554</Pages>
+  <AuthorsID>48</AuthorsID>
+  <GenresID>20</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>7-600-92419  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>222</BookID>
+  <BookName>Они сражались за Родину</BookName>
+  <Pages>459</Pages>
+  <AuthorsID>305</AuthorsID>
+  <GenresID>75</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>3-055-14077  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>223</BookID>
+  <BookName>Партийный билет</BookName>
+  <Pages>272</Pages>
+  <AuthorsID>265</AuthorsID>
+  <GenresID>456</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>7-033-32290  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>224</BookID>
+  <BookName>Злой дух Ямбуя</BookName>
+  <Pages>215</Pages>
+  <AuthorsID>273</AuthorsID>
+  <GenresID>37</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>4-539-47088  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>225</BookID>
+  <BookName>Слова и вещи. Археология гуманитарных наук</BookName>
+  <Pages>542</Pages>
+  <AuthorsID>395</AuthorsID>
+  <GenresID>146</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>0-997-86846  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>226</BookID>
+  <BookName>Джейн Эйр</BookName>
+  <Pages>663</Pages>
+  <AuthorsID>43</AuthorsID>
+  <GenresID>444</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>7-309-47345  </ISBN>
+  <Year>1948</Year>
+</Book>
+<Book>
+  <BookID>227</BookID>
+  <BookName>Как Миша хотел маму перехитрить</BookName>
+  <Pages>681</Pages>
+  <AuthorsID>341</AuthorsID>
+  <GenresID>256</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>7-286-81898  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>228</BookID>
+  <BookName>Серёжка Чубатов</BookName>
+  <Pages>648</Pages>
+  <AuthorsID>479</AuthorsID>
+  <GenresID>25</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>8-212-50146  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>229</BookID>
+  <BookName>Ведьмы за границей</BookName>
+  <Pages>650</Pages>
+  <AuthorsID>25</AuthorsID>
+  <GenresID>432</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>9-894-15567  </ISBN>
+  <Year>1986</Year>
+</Book>
+<Book>
+  <BookID>230</BookID>
+  <BookName>Красные жемчуга</BookName>
+  <Pages>440</Pages>
+  <AuthorsID>212</AuthorsID>
+  <GenresID>117</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>1-699-30579  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>231</BookID>
+  <BookName>Белый пароход</BookName>
+  <Pages>552</Pages>
+  <AuthorsID>157</AuthorsID>
+  <GenresID>427</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>7-789-90020  </ISBN>
+  <Year>2001</Year>
+</Book>
+<Book>
+  <BookID>232</BookID>
+  <BookName>Вечеринка с ночевкой</BookName>
+  <Pages>233</Pages>
+  <AuthorsID>425</AuthorsID>
+  <GenresID>431</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>7-884-32583  </ISBN>
+  <Year>1968</Year>
+</Book>
+<Book>
+  <BookID>233</BookID>
+  <BookName>Мысли о бюрократизме</BookName>
+  <Pages>214</Pages>
+  <AuthorsID>53</AuthorsID>
+  <GenresID>498</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>3-166-02977  </ISBN>
+  <Year>2002</Year>
+</Book>
+<Book>
+  <BookID>234</BookID>
+  <BookName>Большая судьба</BookName>
+  <Pages>277</Pages>
+  <AuthorsID>201</AuthorsID>
+  <GenresID>469</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>8-794-19582  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>235</BookID>
+  <BookName>Его батальон</BookName>
+  <Pages>451</Pages>
+  <AuthorsID>211</AuthorsID>
+  <GenresID>481</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>5-939-93171  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>236</BookID>
+  <BookName>Большой Мольн</BookName>
+  <Pages>361</Pages>
+  <AuthorsID>291</AuthorsID>
+  <GenresID>396</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>6-626-57673  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>237</BookID>
+  <BookName>Повести древних лет</BookName>
+  <Pages>660</Pages>
+  <AuthorsID>179</AuthorsID>
+  <GenresID>497</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>5-592-58939  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>238</BookID>
+  <BookName>Льняное поле в цвету (рассказы)</BookName>
+  <Pages>217</Pages>
+  <AuthorsID>402</AuthorsID>
+  <GenresID>203</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>2-265-27427  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>239</BookID>
+  <BookName>Тёплый хлеб</BookName>
+  <Pages>662</Pages>
+  <AuthorsID>195</AuthorsID>
+  <GenresID>324</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>8-447-95001  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>240</BookID>
+  <BookName>Очная ставка</BookName>
+  <Pages>202</Pages>
+  <AuthorsID>2</AuthorsID>
+  <GenresID>17</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>1-865-84282  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>241</BookID>
+  <BookName>Сожжённая Москва</BookName>
+  <Pages>201</Pages>
+  <AuthorsID>78</AuthorsID>
+  <GenresID>157</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>7-812-56272  </ISBN>
+  <Year>1986</Year>
+</Book>
+<Book>
+  <BookID>242</BookID>
+  <BookName>Мы идём по Восточному Саяну</BookName>
+  <Pages>606</Pages>
+  <AuthorsID>394</AuthorsID>
+  <GenresID>74</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>6-318-14865  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>243</BookID>
+  <BookName>Повести древних лет</BookName>
+  <Pages>263</Pages>
+  <AuthorsID>295</AuthorsID>
+  <GenresID>110</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>2-249-36466  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>244</BookID>
+  <BookName>Чудесное путешествие Нильса с дикими гусями</BookName>
+  <Pages>673</Pages>
+  <AuthorsID>457</AuthorsID>
+  <GenresID>340</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>2-223-10017  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>245</BookID>
+  <BookName>Полководец</BookName>
+  <Pages>220</Pages>
+  <AuthorsID>171</AuthorsID>
+  <GenresID>473</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>0-402-85137  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>246</BookID>
+  <BookName>Разные лица войны (повести, стихи, дневники)</BookName>
+  <Pages>539</Pages>
+  <AuthorsID>76</AuthorsID>
+  <GenresID>313</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>0-024-78888  </ISBN>
+  <Year>1960</Year>
+</Book>
+<Book>
+  <BookID>247</BookID>
+  <BookName>Иван III Государь всея Руси т.2</BookName>
+  <Pages>343</Pages>
+  <AuthorsID>84</AuthorsID>
+  <GenresID>346</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>7-179-77038  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>248</BookID>
+  <BookName>Писатель и вождь. Переписка Шолохова с И.В. Сталиным 1931-1950гг.</BookName>
+  <Pages>575</Pages>
+  <AuthorsID>110</AuthorsID>
+  <GenresID>154</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>8-943-22036  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>249</BookID>
+  <BookName>Гордость и предубеждение</BookName>
+  <Pages>231</Pages>
+  <AuthorsID>474</AuthorsID>
+  <GenresID>239</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>7-383-39488  </ISBN>
+  <Year>2008</Year>
+</Book>
+<Book>
+  <BookID>250</BookID>
+  <BookName>Белый пик</BookName>
+  <Pages>447</Pages>
+  <AuthorsID>314</AuthorsID>
+  <GenresID>490</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>2-781-08411  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>251</BookID>
+  <BookName>Ярмарка тщеславия</BookName>
+  <Pages>468</Pages>
+  <AuthorsID>177</AuthorsID>
+  <GenresID>152</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>5-027-13761  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>252</BookID>
+  <BookName>Джеймс и гигантский персик</BookName>
+  <Pages>272</Pages>
+  <AuthorsID>206</AuthorsID>
+  <GenresID>33</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>1-396-04591  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>253</BookID>
+  <BookName>Доводы рассудка</BookName>
+  <Pages>561</Pages>
+  <AuthorsID>482</AuthorsID>
+  <GenresID>177</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>8-861-29651  </ISBN>
+  <Year>1952</Year>
+</Book>
+<Book>
+  <BookID>254</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>262</Pages>
+  <AuthorsID>210</AuthorsID>
+  <GenresID>29</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>1-686-07136  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>255</BookID>
+  <BookName>Обыкновенная биография</BookName>
+  <Pages>365</Pages>
+  <AuthorsID>149</AuthorsID>
+  <GenresID>187</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>0-839-67756  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>256</BookID>
+  <BookName>Дезертир</BookName>
+  <Pages>402</Pages>
+  <AuthorsID>381</AuthorsID>
+  <GenresID>391</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>3-753-46264  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>257</BookID>
+  <BookName>Похвальное слово бане</BookName>
+  <Pages>218</Pages>
+  <AuthorsID>389</AuthorsID>
+  <GenresID>363</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>6-394-99141  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>258</BookID>
+  <BookName>Плавильщики Ванджа</BookName>
+  <Pages>574</Pages>
+  <AuthorsID>325</AuthorsID>
+  <GenresID>18</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>7-259-07624  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>259</BookID>
+  <BookName>Обелиск</BookName>
+  <Pages>236</Pages>
+  <AuthorsID>6</AuthorsID>
+  <GenresID>262</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>0-421-46278  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>260</BookID>
+  <BookName>Экзамен</BookName>
+  <Pages>200</Pages>
+  <AuthorsID>288</AuthorsID>
+  <GenresID>221</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>4-775-03422  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>261</BookID>
+  <BookName>Западня</BookName>
+  <Pages>543</Pages>
+  <AuthorsID>146</AuthorsID>
+  <GenresID>461</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>2-733-83754  </ISBN>
+  <Year>1999</Year>
+</Book>
+<Book>
+  <BookID>262</BookID>
+  <BookName>Василий Тёркин</BookName>
+  <Pages>304</Pages>
+  <AuthorsID>298</AuthorsID>
+  <GenresID>301</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>6-837-01788  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>263</BookID>
+  <BookName>Шесть персонажей в поисках автора</BookName>
+  <Pages>388</Pages>
+  <AuthorsID>51</AuthorsID>
+  <GenresID>344</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>5-507-04411  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>264</BookID>
+  <BookName>Холодный дом</BookName>
+  <Pages>283</Pages>
+  <AuthorsID>487</AuthorsID>
+  <GenresID>407</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>4-939-11925  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>265</BookID>
+  <BookName>Заре навстречу</BookName>
+  <Pages>374</Pages>
+  <AuthorsID>9</AuthorsID>
+  <GenresID>366</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>5-222-15291  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>266</BookID>
+  <BookName>Ракеты и гранаты</BookName>
+  <Pages>552</Pages>
+  <AuthorsID>119</AuthorsID>
+  <GenresID>48</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>8-149-43462  </ISBN>
+  <Year>1994</Year>
+</Book>
+<Book>
+  <BookID>267</BookID>
+  <BookName>Заре навстречу</BookName>
+  <Pages>559</Pages>
+  <AuthorsID>167</AuthorsID>
+  <GenresID>403</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>2-706-28254  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>268</BookID>
+  <BookName>Чёрный красавчик</BookName>
+  <Pages>643</Pages>
+  <AuthorsID>88</AuthorsID>
+  <GenresID>224</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>9-335-63023  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>269</BookID>
+  <BookName>Очередной</BookName>
+  <Pages>292</Pages>
+  <AuthorsID>378</AuthorsID>
+  <GenresID>81</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>3-435-99728  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>270</BookID>
+  <BookName>Поющие в терновнике</BookName>
+  <Pages>309</Pages>
+  <AuthorsID>66</AuthorsID>
+  <GenresID>73</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>0-941-99429  </ISBN>
+  <Year>1940</Year>
+</Book>
+<Book>
+  <BookID>271</BookID>
+  <BookName>Правила бегства</BookName>
+  <Pages>639</Pages>
+  <AuthorsID>239</AuthorsID>
+  <GenresID>288</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>2-971-74696  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>272</BookID>
+  <BookName>Иван III Государь всея Руси т.2</BookName>
+  <Pages>689</Pages>
+  <AuthorsID>488</AuthorsID>
+  <GenresID>335</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>9-750-90100  </ISBN>
+  <Year>1978</Year>
+</Book>
+<Book>
+  <BookID>273</BookID>
+  <BookName>Батальон четверых</BookName>
+  <Pages>557</Pages>
+  <AuthorsID>352</AuthorsID>
+  <GenresID>23</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>6-304-16734  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>274</BookID>
+  <BookName>Дожить до рассвета</BookName>
+  <Pages>492</Pages>
+  <AuthorsID>369</AuthorsID>
+  <GenresID>27</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>5-407-28034  </ISBN>
+  <Year>1987</Year>
+</Book>
+<Book>
+  <BookID>275</BookID>
+  <BookName>По Москве</BookName>
+  <Pages>478</Pages>
+  <AuthorsID>348</AuthorsID>
+  <GenresID>6</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>4-346-41543  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>276</BookID>
+  <BookName>По Москве</BookName>
+  <Pages>644</Pages>
+  <AuthorsID>255</AuthorsID>
+  <GenresID>220</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>8-526-56742  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>277</BookID>
+  <BookName>Памятные узелки (Сборник)</BookName>
+  <Pages>420</Pages>
+  <AuthorsID>81</AuthorsID>
+  <GenresID>323</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>6-508-08349  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>278</BookID>
+  <BookName>Карьера гангстера Артуро Уи, которой могло и не быть</BookName>
+  <Pages>589</Pages>
+  <AuthorsID>41</AuthorsID>
+  <GenresID>423</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>2-392-99274  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>279</BookID>
+  <BookName>Глубокий сон</BookName>
+  <Pages>663</Pages>
+  <AuthorsID>333</AuthorsID>
+  <GenresID>246</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>3-951-87468  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>280</BookID>
+  <BookName>Заре навстречу</BookName>
+  <Pages>674</Pages>
+  <AuthorsID>327</AuthorsID>
+  <GenresID>190</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>8-749-88000  </ISBN>
+  <Year>1988</Year>
+</Book>
+<Book>
+  <BookID>281</BookID>
+  <BookName>Приезд отца в гости к сыну</BookName>
+  <Pages>475</Pages>
+  <AuthorsID>436</AuthorsID>
+  <GenresID>307</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>3-911-83170  </ISBN>
+  <Year>1968</Year>
+</Book>
+<Book>
+  <BookID>282</BookID>
+  <BookName>Клан пещерного медведя</BookName>
+  <Pages>424</Pages>
+  <AuthorsID>416</AuthorsID>
+  <GenresID>113</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>6-980-55382  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>283</BookID>
+  <BookName>Отец Макарий</BookName>
+  <Pages>469</Pages>
+  <AuthorsID>281</AuthorsID>
+  <GenresID>125</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>0-869-33741  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>284</BookID>
+  <BookName>Далекое волшебное дерево</BookName>
+  <Pages>469</Pages>
+  <AuthorsID>443</AuthorsID>
+  <GenresID>181</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>7-660-56257  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>285</BookID>
+  <BookName>Метатели копий</BookName>
+  <Pages>417</Pages>
+  <AuthorsID>463</AuthorsID>
+  <GenresID>382</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>3-791-36074  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>286</BookID>
+  <BookName>Катастрофа в Милтауне</BookName>
+  <Pages>258</Pages>
+  <AuthorsID>431</AuthorsID>
+  <GenresID>368</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>4-799-42480  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>287</BookID>
+  <BookName>Не стреляйте в белых журавлей</BookName>
+  <Pages>257</Pages>
+  <AuthorsID>342</AuthorsID>
+  <GenresID>448</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>9-192-34023  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>288</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>683</Pages>
+  <AuthorsID>220</AuthorsID>
+  <GenresID>476</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>5-568-03106  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>289</BookID>
+  <BookName>Всадник на крыше</BookName>
+  <Pages>372</Pages>
+  <AuthorsID>492</AuthorsID>
+  <GenresID>168</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>3-873-46300  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>290</BookID>
+  <BookName>Лорна Дун</BookName>
+  <Pages>647</Pages>
+  <AuthorsID>102</AuthorsID>
+  <GenresID>286</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>3-679-66507  </ISBN>
+  <Year>1948</Year>
+</Book>
+<Book>
+  <BookID>291</BookID>
+  <BookName>Плавильщики Ванджа</BookName>
+  <Pages>627</Pages>
+  <AuthorsID>231</AuthorsID>
+  <GenresID>354</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>5-866-64412  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>292</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>412</Pages>
+  <AuthorsID>299</AuthorsID>
+  <GenresID>339</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>5-183-34433  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>293</BookID>
+  <BookName>У подножия вулкана</BookName>
+  <Pages>256</Pages>
+  <AuthorsID>420</AuthorsID>
+  <GenresID>83</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>5-220-11691  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>294</BookID>
+  <BookName>Мелкие боги</BookName>
+  <Pages>640</Pages>
+  <AuthorsID>417</AuthorsID>
+  <GenresID>402</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>6-969-19192  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>295</BookID>
+  <BookName>Разведчик Татьян</BookName>
+  <Pages>699</Pages>
+  <AuthorsID>83</AuthorsID>
+  <GenresID>334</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>8-817-77523  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>296</BookID>
+  <BookName>Митридат</BookName>
+  <Pages>654</Pages>
+  <AuthorsID>313</AuthorsID>
+  <GenresID>109</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>1-876-62182  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>297</BookID>
+  <BookName>Божество реки</BookName>
+  <Pages>238</Pages>
+  <AuthorsID>370</AuthorsID>
+  <GenresID>143</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>6-821-03035  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>298</BookID>
+  <BookName>На все цвета радуги (сборник)</BookName>
+  <Pages>364</Pages>
+  <AuthorsID>409</AuthorsID>
+  <GenresID>419</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>5-573-47797  </ISBN>
+  <Year>2016</Year>
+</Book>
+<Book>
+  <BookID>299</BookID>
+  <BookName>Человек ли это?</BookName>
+  <Pages>632</Pages>
+  <AuthorsID>126</AuthorsID>
+  <GenresID>173</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>4-132-09202  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>300</BookID>
+  <BookName>Трудно отпускает Антарктида</BookName>
+  <Pages>511</Pages>
+  <AuthorsID>445</AuthorsID>
+  <GenresID>105</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>0-982-29779  </ISBN>
+  <Year>2001</Year>
+</Book>
+<Book>
+  <BookID>301</BookID>
+  <BookName>Дорога ветров</BookName>
+  <Pages>672</Pages>
+  <AuthorsID>222</AuthorsID>
+  <GenresID>282</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>7-755-17905  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>302</BookID>
+  <BookName>Страх</BookName>
+  <Pages>696</Pages>
+  <AuthorsID>91</AuthorsID>
+  <GenresID>296</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>3-583-24032  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>303</BookID>
+  <BookName>Дневник</BookName>
+  <Pages>359</Pages>
+  <AuthorsID>400</AuthorsID>
+  <GenresID>468</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>0-661-12870  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>304</BookID>
+  <BookName>Дорога на Берлин</BookName>
+  <Pages>370</Pages>
+  <AuthorsID>35</AuthorsID>
+  <GenresID>260</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>1-708-03960  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>305</BookID>
+  <BookName>Пётр Рябинкин</BookName>
+  <Pages>461</Pages>
+  <AuthorsID>334</AuthorsID>
+  <GenresID>454</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>5-534-91475  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>306</BookID>
+  <BookName>Вокруг света за погодой</BookName>
+  <Pages>301</Pages>
+  <AuthorsID>233</AuthorsID>
+  <GenresID>65</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>8-550-37241  </ISBN>
+  <Year>2002</Year>
+</Book>
+<Book>
+  <BookID>307</BookID>
+  <BookName>Туманность Андромеды</BookName>
+  <Pages>222</Pages>
+  <AuthorsID>20</AuthorsID>
+  <GenresID>268</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>5-798-29491  </ISBN>
+  <Year>2002</Year>
+</Book>
+<Book>
+  <BookID>308</BookID>
+  <BookName>А зори здесь тихие</BookName>
+  <Pages>338</Pages>
+  <AuthorsID>496</AuthorsID>
+  <GenresID>445</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>9-541-07986  </ISBN>
+  <Year>2016</Year>
+</Book>
+<Book>
+  <BookID>309</BookID>
+  <BookName>Голубая сойка Заратустры</BookName>
+  <Pages>223</Pages>
+  <AuthorsID>194</AuthorsID>
+  <GenresID>98</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>3-214-98549  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>310</BookID>
+  <BookName>Степан Разин. Книга 2</BookName>
+  <Pages>293</Pages>
+  <AuthorsID>45</AuthorsID>
+  <GenresID>319</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>3-793-94560  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>311</BookID>
+  <BookName>Повести древних лет</BookName>
+  <Pages>615</Pages>
+  <AuthorsID>150</AuthorsID>
+  <GenresID>28</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>6-759-02429  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>312</BookID>
+  <BookName>Лечение Джорджа Марвелуса</BookName>
+  <Pages>261</Pages>
+  <AuthorsID>100</AuthorsID>
+  <GenresID>198</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>5-808-43661  </ISBN>
+  <Year>1994</Year>
+</Book>
+<Book>
+  <BookID>313</BookID>
+  <BookName>Севастопольская страда т.3</BookName>
+  <Pages>403</Pages>
+  <AuthorsID>258</AuthorsID>
+  <GenresID>230</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>2-821-74983  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>314</BookID>
+  <BookName>Квакша</BookName>
+  <Pages>240</Pages>
+  <AuthorsID>354</AuthorsID>
+  <GenresID>367</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>9-250-63550  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>315</BookID>
+  <BookName>Путешествие на край ночи</BookName>
+  <Pages>625</Pages>
+  <AuthorsID>297</AuthorsID>
+  <GenresID>404</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>5-184-76137  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>316</BookID>
+  <BookName>Тайный дневник Адриана Моула</BookName>
+  <Pages>300</Pages>
+  <AuthorsID>113</AuthorsID>
+  <GenresID>326</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>8-327-28265  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>317</BookID>
+  <BookName>Крестный отец</BookName>
+  <Pages>347</Pages>
+  <AuthorsID>296</AuthorsID>
+  <GenresID>409</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>2-770-23221  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>318</BookID>
+  <BookName>Жестокое море</BookName>
+  <Pages>619</Pages>
+  <AuthorsID>250</AuthorsID>
+  <GenresID>311</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>9-391-15020  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>319</BookID>
+  <BookName>Уловка-22</BookName>
+  <Pages>626</Pages>
+  <AuthorsID>451</AuthorsID>
+  <GenresID>24</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>1-479-72934  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>320</BookID>
+  <BookName>На игле</BookName>
+  <Pages>213</Pages>
+  <AuthorsID>377</AuthorsID>
+  <GenresID>249</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>6-228-09858  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>321</BookID>
+  <BookName>Конец хазы</BookName>
+  <Pages>541</Pages>
+  <AuthorsID>419</AuthorsID>
+  <GenresID>54</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>9-011-90449  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>322</BookID>
+  <BookName>Пробуждение барса</BookName>
+  <Pages>392</Pages>
+  <AuthorsID>129</AuthorsID>
+  <GenresID>424</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>9-082-04019  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>323</BookID>
+  <BookName>Молодая гвардия</BookName>
+  <Pages>590</Pages>
+  <AuthorsID>74</AuthorsID>
+  <GenresID>492</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>6-542-14865  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>324</BookID>
+  <BookName>Земля, до востребования</BookName>
+  <Pages>387</Pages>
+  <AuthorsID>214</AuthorsID>
+  <GenresID>56</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>6-375-62035  </ISBN>
+  <Year>1970</Year>
+</Book>
+<Book>
+  <BookID>325</BookID>
+  <BookName>Возвращение</BookName>
+  <Pages>515</Pages>
+  <AuthorsID>230</AuthorsID>
+  <GenresID>96</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>2-833-15017  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>326</BookID>
+  <BookName>Гибель 4-й роты</BookName>
+  <Pages>405</Pages>
+  <AuthorsID>202</AuthorsID>
+  <GenresID>209</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>8-386-57819  </ISBN>
+  <Year>1942</Year>
+</Book>
+<Book>
+  <BookID>327</BookID>
+  <BookName>Таис Афинская</BookName>
+  <Pages>616</Pages>
+  <AuthorsID>243</AuthorsID>
+  <GenresID>351</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>1-355-79815  </ISBN>
+  <Year>1996</Year>
+</Book>
+<Book>
+  <BookID>328</BookID>
+  <BookName>Убить пересмешника</BookName>
+  <Pages>458</Pages>
+  <AuthorsID>272</AuthorsID>
+  <GenresID>233</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>0-597-49942  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>329</BookID>
+  <BookName>Порт-Артур. Том 1</BookName>
+  <Pages>501</Pages>
+  <AuthorsID>260</AuthorsID>
+  <GenresID>138</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>7-293-58063  </ISBN>
+  <Year>1958</Year>
+</Book>
+<Book>
+  <BookID>330</BookID>
+  <BookName>Журавли</BookName>
+  <Pages>413</Pages>
+  <AuthorsID>469</AuthorsID>
+  <GenresID>238</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>4-745-96836  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>331</BookID>
+  <BookName>Тимур и его команда</BookName>
+  <Pages>428</Pages>
+  <AuthorsID>148</AuthorsID>
+  <GenresID>414</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>2-498-25047  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>332</BookID>
+  <BookName>Корзина с еловыми шишками</BookName>
+  <Pages>253</Pages>
+  <AuthorsID>286</AuthorsID>
+  <GenresID>478</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>8-604-95465  </ISBN>
+  <Year>1977</Year>
+</Book>
+<Book>
+  <BookID>333</BookID>
+  <BookName>Записки Мальте Лауридса Бригге</BookName>
+  <Pages>244</Pages>
+  <AuthorsID>135</AuthorsID>
+  <GenresID>121</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>3-086-34207  </ISBN>
+  <Year>2002</Year>
+</Book>
+<Book>
+  <BookID>334</BookID>
+  <BookName>Шум и ярость</BookName>
+  <Pages>634</Pages>
+  <AuthorsID>455</AuthorsID>
+  <GenresID>57</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>3-454-66507  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>335</BookID>
+  <BookName>Мысли о бюрократизме</BookName>
+  <Pages>333</Pages>
+  <AuthorsID>196</AuthorsID>
+  <GenresID>128</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>1-077-50204  </ISBN>
+  <Year>1942</Year>
+</Book>
+<Book>
+  <BookID>336</BookID>
+  <BookName>Второй пол</BookName>
+  <Pages>459</Pages>
+  <AuthorsID>185</AuthorsID>
+  <GenresID>377</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>4-984-91627  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>337</BookID>
+  <BookName>Афродита</BookName>
+  <Pages>294</Pages>
+  <AuthorsID>161</AuthorsID>
+  <GenresID>460</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>9-586-58658  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>338</BookID>
+  <BookName>Генерал мёртвой армии</BookName>
+  <Pages>457</Pages>
+  <AuthorsID>257</AuthorsID>
+  <GenresID>183</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>3-484-21045  </ISBN>
+  <Year>1968</Year>
+</Book>
+<Book>
+  <BookID>339</BookID>
+  <BookName>Час быка (журнальный вариант с рис. Побединского)</BookName>
+  <Pages>392</Pages>
+  <AuthorsID>301</AuthorsID>
+  <GenresID>99</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>2-444-25337  </ISBN>
+  <Year>1971</Year>
+</Book>
+<Book>
+  <BookID>340</BookID>
+  <BookName>Тереза Дескейру</BookName>
+  <Pages>350</Pages>
+  <AuthorsID>64</AuthorsID>
+  <GenresID>369</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>6-502-76213  </ISBN>
+  <Year>1994</Year>
+</Book>
+<Book>
+  <BookID>341</BookID>
+  <BookName>Разлив</BookName>
+  <Pages>524</Pages>
+  <AuthorsID>207</AuthorsID>
+  <GenresID>304</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>8-639-72914  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>342</BookID>
+  <BookName>Встречный бой</BookName>
+  <Pages>646</Pages>
+  <AuthorsID>472</AuthorsID>
+  <GenresID>67</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>7-445-45185  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>343</BookID>
+  <BookName>Зази в метро</BookName>
+  <Pages>317</Pages>
+  <AuthorsID>418</AuthorsID>
+  <GenresID>39</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>9-353-89812  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>344</BookID>
+  <BookName>У подножия вулкана</BookName>
+  <Pages>659</Pages>
+  <AuthorsID>47</AuthorsID>
+  <GenresID>365</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>3-089-50559  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>345</BookID>
+  <BookName>Волчья яма</BookName>
+  <Pages>216</Pages>
+  <AuthorsID>120</AuthorsID>
+  <GenresID>182</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>6-900-45081  </ISBN>
+  <Year>1989</Year>
+</Book>
+<Book>
+  <BookID>346</BookID>
+  <BookName>У переднего края</BookName>
+  <Pages>653</Pages>
+  <AuthorsID>485</AuthorsID>
+  <GenresID>156</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>1-634-33678  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>347</BookID>
+  <BookName>Письма товарищу</BookName>
+  <Pages>298</Pages>
+  <AuthorsID>358</AuthorsID>
+  <GenresID>318</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>5-566-38792  </ISBN>
+  <Year>2004</Year>
+</Book>
+<Book>
+  <BookID>348</BookID>
+  <BookName>Мрачный жнец</BookName>
+  <Pages>381</Pages>
+  <AuthorsID>268</AuthorsID>
+  <GenresID>265</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>8-369-69013  </ISBN>
+  <Year>2007</Year>
+</Book>
+<Book>
+  <BookID>349</BookID>
+  <BookName>Всадник на крыше</BookName>
+  <Pages>327</Pages>
+  <AuthorsID>86</AuthorsID>
+  <GenresID>373</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>9-693-63745  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>350</BookID>
+  <BookName>Энергичные люди</BookName>
+  <Pages>690</Pages>
+  <AuthorsID>461</AuthorsID>
+  <GenresID>267</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>5-723-11269  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>351</BookID>
+  <BookName>Чёрный час</BookName>
+  <Pages>519</Pages>
+  <AuthorsID>124</AuthorsID>
+  <GenresID>475</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>3-526-34747  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>352</BookID>
+  <BookName>Искупление</BookName>
+  <Pages>559</Pages>
+  <AuthorsID>95</AuthorsID>
+  <GenresID>457</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>9-909-16722  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>353</BookID>
+  <BookName>Пурпурный цвет</BookName>
+  <Pages>650</Pages>
+  <AuthorsID>483</AuthorsID>
+  <GenresID>285</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>2-399-40531  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>354</BookID>
+  <BookName>Загадка озера Кара-Нор</BookName>
+  <Pages>243</Pages>
+  <AuthorsID>282</AuthorsID>
+  <GenresID>443</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>1-606-67501  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>355</BookID>
+  <BookName>Остров сокровищ</BookName>
+  <Pages>290</Pages>
+  <AuthorsID>269</AuthorsID>
+  <GenresID>348</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>7-659-81686  </ISBN>
+  <Year>1970</Year>
+</Book>
+<Book>
+  <BookID>356</BookID>
+  <BookName>Василий Тёркин</BookName>
+  <Pages>489</Pages>
+  <AuthorsID>423</AuthorsID>
+  <GenresID>101</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>3-249-43967  </ISBN>
+  <Year>1988</Year>
+</Book>
+<Book>
+  <BookID>357</BookID>
+  <BookName>Весёлый турист</BookName>
+  <Pages>691</Pages>
+  <AuthorsID>365</AuthorsID>
+  <GenresID>405</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>5-136-18936  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>358</BookID>
+  <BookName>У переправы</BookName>
+  <Pages>329</Pages>
+  <AuthorsID>168</AuthorsID>
+  <GenresID>337</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>1-847-95944  </ISBN>
+  <Year>1956</Year>
+</Book>
+<Book>
+  <BookID>359</BookID>
+  <BookName>Стихи</BookName>
+  <Pages>540</Pages>
+  <AuthorsID>351</AuthorsID>
+  <GenresID>214</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>6-613-83721  </ISBN>
+  <Year>1999</Year>
+</Book>
+<Book>
+  <BookID>360</BookID>
+  <BookName>Процесс</BookName>
+  <Pages>629</Pages>
+  <AuthorsID>264</AuthorsID>
+  <GenresID>188</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>3-591-39882  </ISBN>
+  <Year>1992</Year>
+</Book>
+<Book>
+  <BookID>361</BookID>
+  <BookName>Герой Саламина</BookName>
+  <Pages>353</Pages>
+  <AuthorsID>495</AuthorsID>
+  <GenresID>465</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>8-534-37156  </ISBN>
+  <Year>1999</Year>
+</Book>
+<Book>
+  <BookID>362</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>438</Pages>
+  <AuthorsID>320</AuthorsID>
+  <GenresID>500</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>2-837-50853  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>363</BookID>
+  <BookName>В списках не значился</BookName>
+  <Pages>522</Pages>
+  <AuthorsID>97</AuthorsID>
+  <GenresID>206</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>1-858-34228  </ISBN>
+  <Year>1976</Year>
+</Book>
+<Book>
+  <BookID>364</BookID>
+  <BookName>Сыновья и любовники</BookName>
+  <Pages>308</Pages>
+  <AuthorsID>444</AuthorsID>
+  <GenresID>397</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>0-940-22271  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>365</BookID>
+  <BookName>Далеко на востоке (Халгин-гольские записки)</BookName>
+  <Pages>300</Pages>
+  <AuthorsID>189</AuthorsID>
+  <GenresID>217</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>4-146-09510  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>366</BookID>
+  <BookName>Сердце друга</BookName>
+  <Pages>668</Pages>
+  <AuthorsID>383</AuthorsID>
+  <GenresID>287</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>1-394-74852  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>367</BookID>
+  <BookName>Час быка (книга с рис. Г. Бойко, И. Шалито)</BookName>
+  <Pages>243</Pages>
+  <AuthorsID>275</AuthorsID>
+  <GenresID>370</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>6-621-00349  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>368</BookID>
+  <BookName>Чужестранка</BookName>
+  <Pages>370</Pages>
+  <AuthorsID>114</AuthorsID>
+  <GenresID>310</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>9-077-35057  </ISBN>
+  <Year>1997</Year>
+</Book>
+<Book>
+  <BookID>369</BookID>
+  <BookName>Дремота и зевота</BookName>
+  <Pages>635</Pages>
+  <AuthorsID>80</AuthorsID>
+  <GenresID>174</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>5-625-76009  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>370</BookID>
+  <BookName>Дракула</BookName>
+  <Pages>317</Pages>
+  <AuthorsID>225</AuthorsID>
+  <GenresID>32</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>9-214-70335  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>371</BookID>
+  <BookName>В дороге</BookName>
+  <Pages>609</Pages>
+  <AuthorsID>63</AuthorsID>
+  <GenresID>325</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>0-877-86866  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>372</BookID>
+  <BookName>Медведь Панфамил</BookName>
+  <Pages>623</Pages>
+  <AuthorsID>227</AuthorsID>
+  <GenresID>395</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>7-120-02156  </ISBN>
+  <Year>1989</Year>
+</Book>
+<Book>
+  <BookID>373</BookID>
+  <BookName>Скитания и творчество</BookName>
+  <Pages>669</Pages>
+  <AuthorsID>10</AuthorsID>
+  <GenresID>50</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>5-993-38636  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>374</BookID>
+  <BookName>Горе</BookName>
+  <Pages>517</Pages>
+  <AuthorsID>56</AuthorsID>
+  <GenresID>494</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>3-289-53913  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>375</BookID>
+  <BookName>Над пропастью во ржи</BookName>
+  <Pages>356</Pages>
+  <AuthorsID>65</AuthorsID>
+  <GenresID>499</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>1-374-33171  </ISBN>
+  <Year>2011</Year>
+</Book>
+<Book>
+  <BookID>376</BookID>
+  <BookName>Они сражались за Родину</BookName>
+  <Pages>403</Pages>
+  <AuthorsID>450</AuthorsID>
+  <GenresID>413</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>9-823-06774  </ISBN>
+  <Year>1948</Year>
+</Book>
+<Book>
+  <BookID>377</BookID>
+  <BookName>Не говори ты Арктике – прощай</BookName>
+  <Pages>503</Pages>
+  <AuthorsID>169</AuthorsID>
+  <GenresID>450</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>7-224-34745  </ISBN>
+  <Year>1967</Year>
+</Book>
+<Book>
+  <BookID>378</BookID>
+  <BookName>Гроздья гнева</BookName>
+  <Pages>274</Pages>
+  <AuthorsID>347</AuthorsID>
+  <GenresID>242</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>6-605-67423  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>379</BookID>
+  <BookName>Фронтовая страница</BookName>
+  <Pages>482</Pages>
+  <AuthorsID>44</AuthorsID>
+  <GenresID>176</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>7-453-60614  </ISBN>
+  <Year>1960</Year>
+</Book>
+<Book>
+  <BookID>380</BookID>
+  <BookName>Три поросёнка</BookName>
+  <Pages>283</Pages>
+  <AuthorsID>362</AuthorsID>
+  <GenresID>336</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>3-708-16665  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>381</BookID>
+  <BookName>Третья ракета</BookName>
+  <Pages>369</Pages>
+  <AuthorsID>473</AuthorsID>
+  <GenresID>426</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>7-079-76802  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>382</BookID>
+  <BookName>Юрта Ворона</BookName>
+  <Pages>307</Pages>
+  <AuthorsID>8</AuthorsID>
+  <GenresID>133</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>6-066-86794  </ISBN>
+  <Year>1957</Year>
+</Book>
+<Book>
+  <BookID>383</BookID>
+  <BookName>Иван Бесталантный и Елена Премудрая</BookName>
+  <Pages>656</Pages>
+  <AuthorsID>223</AuthorsID>
+  <GenresID>280</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>6-849-12979  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>384</BookID>
+  <BookName>Маленький принц</BookName>
+  <Pages>486</Pages>
+  <AuthorsID>165</AuthorsID>
+  <GenresID>150</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>0-938-58216  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>385</BookID>
+  <BookName>Ребекка</BookName>
+  <Pages>632</Pages>
+  <AuthorsID>328</AuthorsID>
+  <GenresID>381</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>2-473-92203  </ISBN>
+  <Year>1988</Year>
+</Book>
+<Book>
+  <BookID>386</BookID>
+  <BookName>Час быка (журнальный вариант с рис. Побединского)</BookName>
+  <Pages>579</Pages>
+  <AuthorsID>180</AuthorsID>
+  <GenresID>234</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>8-516-87653  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>387</BookID>
+  <BookName>Карьер</BookName>
+  <Pages>604</Pages>
+  <AuthorsID>163</AuthorsID>
+  <GenresID>106</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>5-535-46216  </ISBN>
+  <Year>1946</Year>
+</Book>
+<Book>
+  <BookID>388</BookID>
+  <BookName>Выстрел</BookName>
+  <Pages>351</Pages>
+  <AuthorsID>435</AuthorsID>
+  <GenresID>292</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>2-596-38386  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>389</BookID>
+  <BookName>Час быка (журнальный вариант с рис. Побединского)</BookName>
+  <Pages>296</Pages>
+  <AuthorsID>442</AuthorsID>
+  <GenresID>347</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>8-780-36082  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>390</BookID>
+  <BookName>Анна Каренина</BookName>
+  <Pages>332</Pages>
+  <AuthorsID>125</AuthorsID>
+  <GenresID>231</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>1-467-90222  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>391</BookID>
+  <BookName>Цвет волшебства</BookName>
+  <Pages>351</Pages>
+  <AuthorsID>208</AuthorsID>
+  <GenresID>93</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>6-830-58784  </ISBN>
+  <Year>1985</Year>
+</Book>
+<Book>
+  <BookID>392</BookID>
+  <BookName>Юрта Ворона</BookName>
+  <Pages>501</Pages>
+  <AuthorsID>15</AuthorsID>
+  <GenresID>94</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>7-310-23955  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>393</BookID>
+  <BookName>Юрта Ворона</BookName>
+  <Pages>590</Pages>
+  <AuthorsID>428</AuthorsID>
+  <GenresID>166</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>6-309-23825  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>394</BookID>
+  <BookName>Остров Буян</BookName>
+  <Pages>205</Pages>
+  <AuthorsID>216</AuthorsID>
+  <GenresID>227</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>3-738-50287  </ISBN>
+  <Year>1957</Year>
+</Book>
+<Book>
+  <BookID>395</BookID>
+  <BookName>Русь Великая</BookName>
+  <Pages>213</Pages>
+  <AuthorsID>147</AuthorsID>
+  <GenresID>295</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>7-374-44280  </ISBN>
+  <Year>1966</Year>
+</Book>
+<Book>
+  <BookID>396</BookID>
+  <BookName>Жизнь Ивана Семёнова</BookName>
+  <Pages>384</Pages>
+  <AuthorsID>130</AuthorsID>
+  <GenresID>320</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>0-168-19310  </ISBN>
+  <Year>2005</Year>
+</Book>
+<Book>
+  <BookID>397</BookID>
+  <BookName>Ах!</BookName>
+  <Pages>289</Pages>
+  <AuthorsID>366</AuthorsID>
+  <GenresID>380</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>2-752-50833  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>398</BookID>
+  <BookName>Архипелаг ГУЛАГ</BookName>
+  <Pages>520</Pages>
+  <AuthorsID>32</AuthorsID>
+  <GenresID>453</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>8-748-44778  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>399</BookID>
+  <BookName>Плач перелётной птицы</BookName>
+  <Pages>347</Pages>
+  <AuthorsID>17</AuthorsID>
+  <GenresID>172</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>6-875-18560  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>400</BookID>
+  <BookName>Сказочник</BookName>
+  <Pages>631</Pages>
+  <AuthorsID>79</AuthorsID>
+  <GenresID>167</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>1-187-55018  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>401</BookID>
+  <BookName>Сила единства</BookName>
+  <Pages>257</Pages>
+  <AuthorsID>422</AuthorsID>
+  <GenresID>151</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>3-067-56715  </ISBN>
+  <Year>1960</Year>
+</Book>
+<Book>
+  <BookID>402</BookID>
+  <BookName>По Москве</BookName>
+  <Pages>473</Pages>
+  <AuthorsID>408</AuthorsID>
+  <GenresID>493</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>1-601-01940  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>403</BookID>
+  <BookName>Цвет волшебства</BookName>
+  <Pages>314</Pages>
+  <AuthorsID>322</AuthorsID>
+  <GenresID>60</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>0-700-70783  </ISBN>
+  <Year>2010</Year>
+</Book>
+<Book>
+  <BookID>404</BookID>
+  <BookName>Зеленая миля</BookName>
+  <Pages>563</Pages>
+  <AuthorsID>238</AuthorsID>
+  <GenresID>350</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>8-258-18348  </ISBN>
+  <Year>1976</Year>
+</Book>
+<Book>
+  <BookID>405</BookID>
+  <BookName>Тайный дневник Адриана Моула</BookName>
+  <Pages>649</Pages>
+  <AuthorsID>18</AuthorsID>
+  <GenresID>408</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>4-386-14457  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>406</BookID>
+  <BookName>Хмурое утро (Хождение по мукам)</BookName>
+  <Pages>471</Pages>
+  <AuthorsID>311</AuthorsID>
+  <GenresID>100</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>8-513-72711  </ISBN>
+  <Year>1992</Year>
+</Book>
+<Book>
+  <BookID>407</BookID>
+  <BookName>Шалтай-Болтай (сборник детских стихов)</BookName>
+  <Pages>594</Pages>
+  <AuthorsID>181</AuthorsID>
+  <GenresID>362</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>1-910-66195  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>408</BookID>
+  <BookName>В ожидании Годо</BookName>
+  <Pages>331</Pages>
+  <AuthorsID>376</AuthorsID>
+  <GenresID>399</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>6-678-72569  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>409</BookID>
+  <BookName>Выстрел</BookName>
+  <Pages>450</Pages>
+  <AuthorsID>89</AuthorsID>
+  <GenresID>257</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>1-937-64111  </ISBN>
+  <Year>1968</Year>
+</Book>
+<Book>
+  <BookID>410</BookID>
+  <BookName>Унесённые ветром</BookName>
+  <Pages>435</Pages>
+  <AuthorsID>439</AuthorsID>
+  <GenresID>317</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>8-877-30783  </ISBN>
+  <Year>1953</Year>
+</Book>
+<Book>
+  <BookID>411</BookID>
+  <BookName>Артемис Фаул</BookName>
+  <Pages>581</Pages>
+  <AuthorsID>412</AuthorsID>
+  <GenresID>86</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>4-734-77438  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>412</BookID>
+  <BookName>Зази в метро</BookName>
+  <Pages>543</Pages>
+  <AuthorsID>1</AuthorsID>
+  <GenresID>193</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>3-282-49080  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>413</BookID>
+  <BookName>Бабушкины кружева (сборник)</BookName>
+  <Pages>344</Pages>
+  <AuthorsID>107</AuthorsID>
+  <GenresID>136</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>2-937-74619  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>414</BookID>
+  <BookName>В ожидании Годо</BookName>
+  <Pages>293</Pages>
+  <AuthorsID>101</AuthorsID>
+  <GenresID>147</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>9-820-78971  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>415</BookID>
+  <BookName>Повесть о лесах</BookName>
+  <Pages>427</Pages>
+  <AuthorsID>490</AuthorsID>
+  <GenresID>394</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>1-504-87794  </ISBN>
+  <Year>2013</Year>
+</Book>
+<Book>
+  <BookID>416</BookID>
+  <BookName>Восьмой побег</BookName>
+  <Pages>482</Pages>
+  <AuthorsID>307</AuthorsID>
+  <GenresID>360</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>5-890-87232  </ISBN>
+  <Year>2012</Year>
+</Book>
+<Book>
+  <BookID>417</BookID>
+  <BookName>Крестики-нолики</BookName>
+  <Pages>510</Pages>
+  <AuthorsID>55</AuthorsID>
+  <GenresID>87</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>1-608-04455  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>418</BookID>
+  <BookName>Клинок эмира</BookName>
+  <Pages>604</Pages>
+  <AuthorsID>26</AuthorsID>
+  <GenresID>433</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>1-107-87406  </ISBN>
+  <Year>1989</Year>
+</Book>
+<Book>
+  <BookID>419</BookID>
+  <BookName>Война и мир</BookName>
+  <Pages>537</Pages>
+  <AuthorsID>159</AuthorsID>
+  <GenresID>300</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>2-863-64221  </ISBN>
+  <Year>1950</Year>
+</Book>
+<Book>
+  <BookID>420</BookID>
+  <BookName>Оборона Семидворья</BookName>
+  <Pages>653</Pages>
+  <AuthorsID>374</AuthorsID>
+  <GenresID>185</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>5-754-83312  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>421</BookID>
+  <BookName>Пение птиц</BookName>
+  <Pages>502</Pages>
+  <AuthorsID>29</AuthorsID>
+  <GenresID>19</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>9-193-23235  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>422</BookID>
+  <BookName>Правила бегства</BookName>
+  <Pages>214</Pages>
+  <AuthorsID>246</AuthorsID>
+  <GenresID>9</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>9-987-74307  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>423</BookID>
+  <BookName>Иван Бесталантный и Елена Премудрая</BookName>
+  <Pages>695</Pages>
+  <AuthorsID>491</AuthorsID>
+  <GenresID>259</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>4-858-47457  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>424</BookID>
+  <BookName>Суховей</BookName>
+  <Pages>520</Pages>
+  <AuthorsID>493</AuthorsID>
+  <GenresID>437</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>9-110-78299  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>425</BookID>
+  <BookName>Королева бобров</BookName>
+  <Pages>592</Pages>
+  <AuthorsID>121</AuthorsID>
+  <GenresID>145</GenresID>
+  <PublishHouseID>25</PublishHouseID>
+  <ISBN>8-897-92200  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>426</BookID>
+  <BookName>Убийство Роджера Экройда</BookName>
+  <Pages>623</Pages>
+  <AuthorsID>497</AuthorsID>
+  <GenresID>216</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>7-625-07877  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>427</BookID>
+  <BookName>У земли на макушке</BookName>
+  <Pages>326</Pages>
+  <AuthorsID>33</AuthorsID>
+  <GenresID>123</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>1-959-50605  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>428</BookID>
+  <BookName>Олгой-Хорхой</BookName>
+  <Pages>343</Pages>
+  <AuthorsID>309</AuthorsID>
+  <GenresID>45</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>4-575-29681  </ISBN>
+  <Year>2003</Year>
+</Book>
+<Book>
+  <BookID>429</BookID>
+  <BookName>Гарри Поттер и Кубок огня</BookName>
+  <Pages>397</Pages>
+  <AuthorsID>49</AuthorsID>
+  <GenresID>42</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>4-606-25926  </ISBN>
+  <Year>1996</Year>
+</Book>
+<Book>
+  <BookID>430</BookID>
+  <BookName>Мятеж</BookName>
+  <Pages>507</Pages>
+  <AuthorsID>40</AuthorsID>
+  <GenresID>486</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>2-411-13076  </ISBN>
+  <Year>1965</Year>
+</Book>
+<Book>
+  <BookID>431</BookID>
+  <BookName>Благие знамения</BookName>
+  <Pages>369</Pages>
+  <AuthorsID>116</AuthorsID>
+  <GenresID>278</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>2-630-65566  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>432</BookID>
+  <BookName>Рождение командира</BookName>
+  <Pages>579</Pages>
+  <AuthorsID>176</AuthorsID>
+  <GenresID>389</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>1-807-03617  </ISBN>
+  <Year>1978</Year>
+</Book>
+<Book>
+  <BookID>433</BookID>
+  <BookName>Майор Иванов</BookName>
+  <Pages>339</Pages>
+  <AuthorsID>128</AuthorsID>
+  <GenresID>210</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>5-375-99288  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>434</BookID>
+  <BookName>Офицеры</BookName>
+  <Pages>649</Pages>
+  <AuthorsID>219</AuthorsID>
+  <GenresID>155</GenresID>
+  <PublishHouseID>17</PublishHouseID>
+  <ISBN>5-241-37832  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>435</BookID>
+  <BookName>Стая ворон над гостинцем</BookName>
+  <Pages>675</Pages>
+  <AuthorsID>433</AuthorsID>
+  <GenresID>421</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>7-777-23249  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>436</BookID>
+  <BookName>Франкенштейн</BookName>
+  <Pages>334</Pages>
+  <AuthorsID>489</AuthorsID>
+  <GenresID>489</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>2-802-91065  </ISBN>
+  <Year>1962</Year>
+</Book>
+<Book>
+  <BookID>437</BookID>
+  <BookName>Туманность Андромеды</BookName>
+  <Pages>301</Pages>
+  <AuthorsID>481</AuthorsID>
+  <GenresID>269</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>2-570-23867  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>438</BookID>
+  <BookName>Властелин колец</BookName>
+  <Pages>653</Pages>
+  <AuthorsID>72</AuthorsID>
+  <GenresID>266</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>8-512-81146  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>439</BookID>
+  <BookName>Уловка-22</BookName>
+  <Pages>663</Pages>
+  <AuthorsID>321</AuthorsID>
+  <GenresID>226</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>1-013-60736  </ISBN>
+  <Year>1989</Year>
+</Book>
+<Book>
+  <BookID>440</BookID>
+  <BookName>Бытие и ничто</BookName>
+  <Pages>499</Pages>
+  <AuthorsID>19</AuthorsID>
+  <GenresID>459</GenresID>
+  <PublishHouseID>13</PublishHouseID>
+  <ISBN>5-946-23738  </ISBN>
+  <Year>1951</Year>
+</Book>
+<Book>
+  <BookID>441</BookID>
+  <BookName>Голубая глубина (Книга стихов)</BookName>
+  <Pages>244</Pages>
+  <AuthorsID>190</AuthorsID>
+  <GenresID>77</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>2-080-13340  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>442</BookID>
+  <BookName>Оливер Твист</BookName>
+  <Pages>508</Pages>
+  <AuthorsID>52</AuthorsID>
+  <GenresID>80</GenresID>
+  <PublishHouseID>4</PublishHouseID>
+  <ISBN>2-653-86368  </ISBN>
+  <Year>2002</Year>
+</Book>
+<Book>
+  <BookID>443</BookID>
+  <BookName>Маленький принц</BookName>
+  <Pages>632</Pages>
+  <AuthorsID>277</AuthorsID>
+  <GenresID>71</GenresID>
+  <PublishHouseID>8</PublishHouseID>
+  <ISBN>9-501-72401  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>444</BookID>
+  <BookName>Волхв</BookName>
+  <Pages>249</Pages>
+  <AuthorsID>57</AuthorsID>
+  <GenresID>134</GenresID>
+  <PublishHouseID>36</PublishHouseID>
+  <ISBN>0-475-11035  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>445</BookID>
+  <BookName>Цветущие травы</BookName>
+  <Pages>661</Pages>
+  <AuthorsID>109</AuthorsID>
+  <GenresID>417</GenresID>
+  <PublishHouseID>10</PublishHouseID>
+  <ISBN>3-947-63492  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>446</BookID>
+  <BookName>Сказка о сером волке</BookName>
+  <Pages>449</Pages>
+  <AuthorsID>447</AuthorsID>
+  <GenresID>139</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>0-866-97386  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>447</BookID>
+  <BookName>О дивный новый мир</BookName>
+  <Pages>393</Pages>
+  <AuthorsID>22</AuthorsID>
+  <GenresID>251</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>6-220-68046  </ISBN>
+  <Year>2009</Year>
+</Book>
+<Book>
+  <BookID>448</BookID>
+  <BookName>У подножия вулкана</BookName>
+  <Pages>237</Pages>
+  <AuthorsID>459</AuthorsID>
+  <GenresID>387</GenresID>
+  <PublishHouseID>26</PublishHouseID>
+  <ISBN>1-283-10125  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>449</BookID>
+  <BookName>Горячий снег</BookName>
+  <Pages>506</Pages>
+  <AuthorsID>271</AuthorsID>
+  <GenresID>41</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>1-821-87936  </ISBN>
+  <Year>1975</Year>
+</Book>
+<Book>
+  <BookID>450</BookID>
+  <BookName>Громобой</BookName>
+  <Pages>662</Pages>
+  <AuthorsID>312</AuthorsID>
+  <GenresID>384</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>3-826-16613  </ISBN>
+  <Year>2016</Year>
+</Book>
+<Book>
+  <BookID>451</BookID>
+  <BookName>Молчание моря</BookName>
+  <Pages>211</Pages>
+  <AuthorsID>259</AuthorsID>
+  <GenresID>64</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>1-061-81790  </ISBN>
+  <Year>1954</Year>
+</Book>
+<Book>
+  <BookID>452</BookID>
+  <BookName>Заре навстречу</BookName>
+  <Pages>546</Pages>
+  <AuthorsID>184</AuthorsID>
+  <GenresID>225</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>9-511-33431  </ISBN>
+  <Year>1998</Year>
+</Book>
+<Book>
+  <BookID>453</BookID>
+  <BookName>Демон горы</BookName>
+  <Pages>218</Pages>
+  <AuthorsID>387</AuthorsID>
+  <GenresID>97</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>4-955-86964  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>454</BookID>
+  <BookName>Божество реки</BookName>
+  <Pages>468</Pages>
+  <AuthorsID>499</AuthorsID>
+  <GenresID>342</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>8-742-65286  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>455</BookID>
+  <BookName>Повелитель мух</BookName>
+  <Pages>685</Pages>
+  <AuthorsID>7</AuthorsID>
+  <GenresID>428</GenresID>
+  <PublishHouseID>12</PublishHouseID>
+  <ISBN>7-459-84695  </ISBN>
+  <Year>1952</Year>
+</Book>
+<Book>
+  <BookID>456</BookID>
+  <BookName>Морская душа</BookName>
+  <Pages>242</Pages>
+  <AuthorsID>353</AuthorsID>
+  <GenresID>235</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>9-653-63004  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>457</BookID>
+  <BookName>Чудесное путешествие Нильса с дикими гусями</BookName>
+  <Pages>442</Pages>
+  <AuthorsID>379</AuthorsID>
+  <GenresID>132</GenresID>
+  <PublishHouseID>18</PublishHouseID>
+  <ISBN>7-485-20334  </ISBN>
+  <Year>2000</Year>
+</Book>
+<Book>
+  <BookID>458</BookID>
+  <BookName>Институт сновидений</BookName>
+  <Pages>623</Pages>
+  <AuthorsID>446</AuthorsID>
+  <GenresID>477</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>1-166-65457  </ISBN>
+  <Year>1956</Year>
+</Book>
+<Book>
+  <BookID>459</BookID>
+  <BookName>Лола Роза</BookName>
+  <Pages>298</Pages>
+  <AuthorsID>480</AuthorsID>
+  <GenresID>283</GenresID>
+  <PublishHouseID>24</PublishHouseID>
+  <ISBN>1-275-33276  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>460</BookID>
+  <BookName>Жертва</BookName>
+  <Pages>207</Pages>
+  <AuthorsID>437</AuthorsID>
+  <GenresID>430</GenresID>
+  <PublishHouseID>7</PublishHouseID>
+  <ISBN>7-222-33404  </ISBN>
+  <Year>1969</Year>
+</Book>
+<Book>
+  <BookID>461</BookID>
+  <BookName>Взыскание погибших</BookName>
+  <Pages>656</Pages>
+  <AuthorsID>241</AuthorsID>
+  <GenresID>219</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>1-212-31133  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>462</BookID>
+  <BookName>Печаль полей</BookName>
+  <Pages>624</Pages>
+  <AuthorsID>248</AuthorsID>
+  <GenresID>191</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>3-744-56062  </ISBN>
+  <Year>1986</Year>
+</Book>
+<Book>
+  <BookID>463</BookID>
+  <BookName>Овод (с иллюстрациями)</BookName>
+  <Pages>612</Pages>
+  <AuthorsID>339</AuthorsID>
+  <GenresID>243</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>7-840-70967  </ISBN>
+  <Year>1982</Year>
+</Book>
+<Book>
+  <BookID>464</BookID>
+  <BookName>Властелин колец</BookName>
+  <Pages>257</Pages>
+  <AuthorsID>267</AuthorsID>
+  <GenresID>69</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>3-699-42071  </ISBN>
+  <Year>1945</Year>
+</Book>
+<Book>
+  <BookID>465</BookID>
+  <BookName>Мысли о бюрократизме</BookName>
+  <Pages>644</Pages>
+  <AuthorsID>133</AuthorsID>
+  <GenresID>201</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>8-620-40007  </ISBN>
+  <Year>1961</Year>
+</Book>
+<Book>
+  <BookID>466</BookID>
+  <BookName>Мятеж</BookName>
+  <Pages>603</Pages>
+  <AuthorsID>178</AuthorsID>
+  <GenresID>379</GenresID>
+  <PublishHouseID>15</PublishHouseID>
+  <ISBN>6-204-46135  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>467</BookID>
+  <BookName>Весёлый турист</BookName>
+  <Pages>471</Pages>
+  <AuthorsID>315</AuthorsID>
+  <GenresID>119</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>3-068-46137  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>468</BookID>
+  <BookName>Начфин</BookName>
+  <Pages>565</Pages>
+  <AuthorsID>16</AuthorsID>
+  <GenresID>22</GenresID>
+  <PublishHouseID>16</PublishHouseID>
+  <ISBN>4-352-48649  </ISBN>
+  <Year>1943</Year>
+</Book>
+<Book>
+  <BookID>469</BookID>
+  <BookName>Кража</BookName>
+  <Pages>310</Pages>
+  <AuthorsID>197</AuthorsID>
+  <GenresID>199</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>1-159-59013  </ISBN>
+  <Year>1987</Year>
+</Book>
+<Book>
+  <BookID>470</BookID>
+  <BookName>Алексей Куликов, боец</BookName>
+  <Pages>588</Pages>
+  <AuthorsID>406</AuthorsID>
+  <GenresID>273</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>5-203-66808  </ISBN>
+  <Year>2014</Year>
+</Book>
+<Book>
+  <BookID>471</BookID>
+  <BookName>Властелин колец</BookName>
+  <Pages>266</Pages>
+  <AuthorsID>401</AuthorsID>
+  <GenresID>5</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>4-016-43371  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>472</BookID>
+  <BookName>После смерти</BookName>
+  <Pages>463</Pages>
+  <AuthorsID>346</AuthorsID>
+  <GenresID>244</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>5-283-79083  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>473</BookID>
+  <BookName>Война миров</BookName>
+  <Pages>266</Pages>
+  <AuthorsID>254</AuthorsID>
+  <GenresID>115</GenresID>
+  <PublishHouseID>33</PublishHouseID>
+  <ISBN>2-710-83417  </ISBN>
+  <Year>1947</Year>
+</Book>
+<Book>
+  <BookID>474</BookID>
+  <BookName>Стихи (сборник)</BookName>
+  <Pages>501</Pages>
+  <AuthorsID>476</AuthorsID>
+  <GenresID>447</GenresID>
+  <PublishHouseID>35</PublishHouseID>
+  <ISBN>7-047-15844  </ISBN>
+  <Year>1981</Year>
+</Book>
+<Book>
+  <BookID>475</BookID>
+  <BookName>Дядя Стёпа</BookName>
+  <Pages>286</Pages>
+  <AuthorsID>122</AuthorsID>
+  <GenresID>480</GenresID>
+  <PublishHouseID>6</PublishHouseID>
+  <ISBN>9-286-54660  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>476</BookID>
+  <BookName>День Шакала</BookName>
+  <Pages>660</Pages>
+  <AuthorsID>426</AuthorsID>
+  <GenresID>491</GenresID>
+  <PublishHouseID>27</PublishHouseID>
+  <ISBN>5-867-46878  </ISBN>
+  <Year>1959</Year>
+</Book>
+<Book>
+  <BookID>477</BookID>
+  <BookName>Винни Пух</BookName>
+  <Pages>478</Pages>
+  <AuthorsID>274</AuthorsID>
+  <GenresID>349</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>7-831-26383  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>478</BookID>
+  <BookName>Горменгаст</BookName>
+  <Pages>463</Pages>
+  <AuthorsID>14</AuthorsID>
+  <GenresID>333</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>4-018-75511  </ISBN>
+  <Year>1942</Year>
+</Book>
+<Book>
+  <BookID>479</BookID>
+  <BookName>Ринг за колючей проволокой</BookName>
+  <Pages>692</Pages>
+  <AuthorsID>270</AuthorsID>
+  <GenresID>126</GenresID>
+  <PublishHouseID>20</PublishHouseID>
+  <ISBN>8-634-57652  </ISBN>
+  <Year>2000</Year>
+</Book>
+<Book>
+  <BookID>480</BookID>
+  <BookName>Кощеева цепь</BookName>
+  <Pages>648</Pages>
+  <AuthorsID>359</AuthorsID>
+  <GenresID>175</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>4-952-69920  </ISBN>
+  <Year>1984</Year>
+</Book>
+<Book>
+  <BookID>481</BookID>
+  <BookName>Двойняшки</BookName>
+  <Pages>333</Pages>
+  <AuthorsID>106</AuthorsID>
+  <GenresID>26</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>6-488-37068  </ISBN>
+  <Year>1971</Year>
+</Book>
+<Book>
+  <BookID>482</BookID>
+  <BookName>Шесть персонажей в поисках автора</BookName>
+  <Pages>230</Pages>
+  <AuthorsID>127</AuthorsID>
+  <GenresID>11</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>5-446-04400  </ISBN>
+  <Year>1944</Year>
+</Book>
+<Book>
+  <BookID>483</BookID>
+  <BookName>Жизнь, способ употребления</BookName>
+  <Pages>476</Pages>
+  <AuthorsID>462</AuthorsID>
+  <GenresID>392</GenresID>
+  <PublishHouseID>5</PublishHouseID>
+  <ISBN>3-015-55398  </ISBN>
+  <Year>1990</Year>
+</Book>
+<Book>
+  <BookID>484</BookID>
+  <BookName>Разлив</BookName>
+  <Pages>331</Pages>
+  <AuthorsID>21</AuthorsID>
+  <GenresID>485</GenresID>
+  <PublishHouseID>30</PublishHouseID>
+  <ISBN>3-249-83449  </ISBN>
+  <Year>1978</Year>
+</Book>
+<Book>
+  <BookID>485</BookID>
+  <BookName>Жертва</BookName>
+  <Pages>200</Pages>
+  <AuthorsID>357</AuthorsID>
+  <GenresID>189</GenresID>
+  <PublishHouseID>22</PublishHouseID>
+  <ISBN>4-936-57785  </ISBN>
+  <Year>2015</Year>
+</Book>
+<Book>
+  <BookID>486</BookID>
+  <BookName>На дороге</BookName>
+  <Pages>464</Pages>
+  <AuthorsID>204</AuthorsID>
+  <GenresID>70</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>8-259-79978  </ISBN>
+  <Year>1956</Year>
+</Book>
+<Book>
+  <BookID>487</BookID>
+  <BookName>Одухотворённые люди</BookName>
+  <Pages>212</Pages>
+  <AuthorsID>414</AuthorsID>
+  <GenresID>374</GenresID>
+  <PublishHouseID>2</PublishHouseID>
+  <ISBN>8-582-18315  </ISBN>
+  <Year>1972</Year>
+</Book>
+<Book>
+  <BookID>488</BookID>
+  <BookName>Они сражались за Родину</BookName>
+  <Pages>334</Pages>
+  <AuthorsID>235</AuthorsID>
+  <GenresID>165</GenresID>
+  <PublishHouseID>34</PublishHouseID>
+  <ISBN>5-491-33300  </ISBN>
+  <Year>1941</Year>
+</Book>
+<Book>
+  <BookID>489</BookID>
+  <BookName>Посмертные записки Пиквикского клуба</BookName>
+  <Pages>323</Pages>
+  <AuthorsID>407</AuthorsID>
+  <GenresID>466</GenresID>
+  <PublishHouseID>9</PublishHouseID>
+  <ISBN>4-204-84087  </ISBN>
+  <Year>1995</Year>
+</Book>
+<Book>
+  <BookID>490</BookID>
+  <BookName>Заклинатель лошадей</BookName>
+  <Pages>384</Pages>
+  <AuthorsID>386</AuthorsID>
+  <GenresID>124</GenresID>
+  <PublishHouseID>1</PublishHouseID>
+  <ISBN>4-763-44054  </ISBN>
+  <Year>1955</Year>
+</Book>
+<Book>
+  <BookID>491</BookID>
+  <BookName>Библия ядовитого леса</BookName>
+  <Pages>497</Pages>
+  <AuthorsID>316</AuthorsID>
+  <GenresID>436</GenresID>
+  <PublishHouseID>31</PublishHouseID>
+  <ISBN>5-495-24237  </ISBN>
+  <Year>1980</Year>
+</Book>
+<Book>
+  <BookID>492</BookID>
+  <BookName>Невыносимая лёгкость бытия</BookName>
+  <Pages>260</Pages>
+  <AuthorsID>465</AuthorsID>
+  <GenresID>271</GenresID>
+  <PublishHouseID>29</PublishHouseID>
+  <ISBN>5-154-66117  </ISBN>
+  <Year>1974</Year>
+</Book>
+<Book>
+  <BookID>493</BookID>
+  <BookName>Возвращение в Брайдсхед</BookName>
+  <Pages>351</Pages>
+  <AuthorsID>478</AuthorsID>
+  <GenresID>180</GenresID>
+  <PublishHouseID>21</PublishHouseID>
+  <ISBN>3-837-28892  </ISBN>
+  <Year>1991</Year>
+</Book>
+<Book>
+  <BookID>494</BookID>
+  <BookName>Не говори ты Арктике – прощай</BookName>
+  <Pages>449</Pages>
+  <AuthorsID>244</AuthorsID>
+  <GenresID>247</GenresID>
+  <PublishHouseID>14</PublishHouseID>
+  <ISBN>0-488-31375  </ISBN>
+  <Year>2000</Year>
+</Book>
+<Book>
+  <BookID>495</BookID>
+  <BookName>Стихи (сборник)</BookName>
+  <Pages>438</Pages>
+  <AuthorsID>205</AuthorsID>
+  <GenresID>84</GenresID>
+  <PublishHouseID>28</PublishHouseID>
+  <ISBN>0-345-59719  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>496</BookID>
+  <BookName>Загадка озера Кара-Нор</BookName>
+  <Pages>224</Pages>
+  <AuthorsID>39</AuthorsID>
+  <GenresID>2</GenresID>
+  <PublishHouseID>11</PublishHouseID>
+  <ISBN>5-969-97788  </ISBN>
+  <Year>1963</Year>
+</Book>
+<Book>
+  <BookID>497</BookID>
+  <BookName>Дорога ветров</BookName>
+  <Pages>242</Pages>
+  <AuthorsID>424</AuthorsID>
+  <GenresID>116</GenresID>
+  <PublishHouseID>19</PublishHouseID>
+  <ISBN>1-549-28062  </ISBN>
+  <Year>1973</Year>
+</Book>
+<Book>
+  <BookID>498</BookID>
+  <BookName>Улисс</BookName>
+  <Pages>630</Pages>
+  <AuthorsID>31</AuthorsID>
+  <GenresID>222</GenresID>
+  <PublishHouseID>32</PublishHouseID>
+  <ISBN>3-901-25601  </ISBN>
+  <Year>1983</Year>
+</Book>
+<Book>
+  <BookID>499</BookID>
+  <BookName>На могилах русских солдат</BookName>
+  <Pages>413</Pages>
+  <AuthorsID>287</AuthorsID>
+  <GenresID>161</GenresID>
+  <PublishHouseID>23</PublishHouseID>
+  <ISBN>7-491-42978  </ISBN>
+  <Year>2006</Year>
+</Book>
+<Book>
+  <BookID>500</BookID>
+  <BookName>Момент истины (в августе сорок четвёртого)</BookName>
+  <Pages>339</Pages>
+  <AuthorsID>164</AuthorsID>
+  <GenresID>79</GenresID>
+  <PublishHouseID>3</PublishHouseID>
+  <ISBN>6-232-37885  </ISBN>
+  <Year>1952</Year>
+</Book>
+</Books>

@@ -1,0 +1,7 @@
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\bin\Debug\lab_7.exe.config
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\bin\Debug\lab_7.exe
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\bin\Debug\lab_7.pdb
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\obj\Debug\lab_7.csprojAssemblyReference.cache
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\obj\Debug\lab_7.csproj.CoreCompileInputs.cache
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\obj\Debug\lab_7.exe
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7\obj\Debug\lab_7.pdb

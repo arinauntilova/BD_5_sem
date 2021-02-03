@@ -1,0 +1,7 @@
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\obj\Debug\lab_7_sql.csprojAssemblyReference.cache
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\obj\Debug\lab_7_sql.csproj.CoreCompileInputs.cache
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\bin\Debug\lab_7_sql.exe.config
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\bin\Debug\lab_7_sql.exe
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\bin\Debug\lab_7_sql.pdb
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\obj\Debug\lab_7_sql.exe
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_7\lab_7_sql\obj\Debug\lab_7_sql.pdb

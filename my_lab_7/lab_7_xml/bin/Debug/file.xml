@@ -1,0 +1,20 @@
+<ROOT> 
+	<tblPainter>
+		<PainterID>501</PainterID>
+		<PainterFirstName>Петров</PainterFirstName>
+		<PainterSecondName>Игорь</PainterSecondName>
+		<PainterMiddleName>Александрович</PainterMiddleName>
+	</tblPainter>
+	<tblPainter>
+		<PainterID>502</PainterID>
+		<PainterFirstName>Ветрова</PainterFirstName>
+		<PainterSecondName>Полина</PainterSecondName>
+		<PainterMiddleName>Евгеньевна</PainterMiddleName>
+	</tblPainter>
+	<tblPainter>
+		<PainterID>503</PainterID>
+		<PainterFirstName>Черненко</PainterFirstName>
+		<PainterSecondName>Анна</PainterSecondName>
+		<PainterMiddleName>Викторовна</PainterMiddleName>
+	</tblPainter>
+</ROOT>
