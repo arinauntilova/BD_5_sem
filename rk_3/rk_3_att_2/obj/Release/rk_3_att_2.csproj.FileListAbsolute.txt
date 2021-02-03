@@ -1,0 +1,2 @@
+D:\rk_3_new\rk_3_att_2\obj\Release\rk_3_att_2.csprojAssemblyReference.cache
+D:\rk_3_new\rk_3_att_2\obj\Release\rk_3_att_2.csproj.CoreCompileInputs.cache

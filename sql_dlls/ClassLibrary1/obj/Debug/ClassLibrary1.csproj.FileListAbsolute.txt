@@ -1,0 +1,10 @@
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_4\dlls\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_4\dlls\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_4\dlls\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_4\dlls\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\перенос  25.08.20\labs\5_sem_BD\my_lab_4\dlls\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\sql_dlls\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\sql_dlls\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\sql_dlls\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\sql_dlls\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\sql_dlls\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
